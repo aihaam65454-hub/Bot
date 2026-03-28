@@ -1,0 +1,2090 @@
+2025-10-31 19:00:08,991 - INFO - Main execution block started.
+2025-10-31 19:00:08,991 - INFO - Starting client for ID: 4219768904
+2025-10-31 19:00:10,556 - INFO - Token decoded and processed. Account ID: 13552627177
+2025-10-31 19:00:10,556 - INFO - Final token constructed successfully.
+2025-10-31 19:00:10,668 - INFO -  Con port 39699 Host 202.81.108.107 
+2025-10-31 19:04:25,433 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-10-31 19:04:25,440 - WARNING - Initiating bot restart...
+2025-10-31 19:04:25,453 - ERROR - Error during pre-restart cleanup: (pid=25583)
+2025-10-31 19:04:26,101 - INFO - Main execution block started.
+2025-10-31 19:04:26,102 - INFO - Starting client for ID: 4219768904
+2025-10-31 19:04:27,761 - INFO - Token decoded and processed. Account ID: 13552627177
+2025-10-31 19:04:27,762 - INFO - Final token constructed successfully.
+2025-10-31 19:04:27,893 - INFO -  Con port 39699 Host 202.81.108.107 
+2025-10-31 19:04:56,460 - INFO - Shutdown signal received. Exiting.
+2025-10-31 22:05:06,197 - INFO - Main execution block started.
+2025-10-31 22:05:06,198 - INFO - Starting client for ID: 4219768904
+2025-10-31 22:05:07,871 - INFO - Token decoded and processed. Account ID: 13552627177
+2025-10-31 22:05:07,872 - INFO - Final token constructed successfully.
+2025-10-31 22:05:08,014 - INFO -  Con port 39699 Host 202.81.108.107 
+2025-10-31 22:08:42,948 - INFO - Shutdown signal received. Exiting.
+2025-10-31 22:08:45,966 - INFO - Main execution block started.
+2025-10-31 22:08:45,967 - INFO - Starting client for ID: 4219768904
+2025-10-31 22:08:47,943 - INFO - Token decoded and processed. Account ID: 13552627177
+2025-10-31 22:08:47,945 - INFO - Final token constructed successfully.
+2025-10-31 22:08:48,056 - INFO -  Con port 39699 Host 202.81.108.107 
+2025-10-31 22:10:23,260 - INFO - Shutdown signal received. Exiting.
+2025-11-01 12:43:01,098 - INFO - Main execution block started.
+2025-11-01 12:43:01,099 - INFO - Starting client for ID: 4219768904
+2025-11-01 12:43:02,919 - INFO - Token decoded and processed. Account ID: 13552627177
+2025-11-01 12:43:02,919 - INFO - Final token constructed successfully.
+2025-11-01 12:43:03,068 - INFO -  Con port 39699 Host 202.81.108.107 
+2025-11-01 12:43:42,978 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:43,027 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:43,123 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:43,171 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:43,483 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:43,568 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:43,623 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:43,719 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:43,767 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:43,839 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:43,958 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:44,206 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:44,263 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:44,321 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:44,379 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:44,426 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:44,726 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:44,775 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:44,874 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:45,128 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:45,199 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:45,285 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:45,334 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:45,386 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:45,710 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:45,811 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:45,908 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:46,204 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:46,357 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:46,614 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:46,702 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:46,751 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:46,799 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:46,873 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:47,153 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:47,271 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:47,556 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:47,606 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:47,665 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:47,780 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:47,847 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:47,987 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:48,127 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:48,270 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:48,630 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:48,693 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:49,019 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:49,100 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:49,187 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:49,332 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:49,421 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:49,601 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:49,885 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:49,940 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:50,003 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:50,050 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:50,081 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:50,360 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:50,397 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:50,451 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:50,589 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:50,745 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:50,836 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:50,888 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:51,018 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:51,247 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:51,280 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:51,352 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:51,473 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:51,531 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:51,677 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:51,736 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:51,832 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:51,903 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:52,195 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:52,246 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:52,276 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:52,607 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:52,666 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:52,795 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:52,857 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:53,146 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:53,267 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:53,544 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:53,606 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:53,704 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:53,726 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:54,069 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:54,177 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:54,224 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:54,268 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:54,310 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:54,598 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:54,644 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:54,686 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:54,782 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:55,064 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:55,239 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:55,336 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:55,512 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:55,684 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:55,725 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:55,890 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:56,103 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:56,214 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:56,268 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:56,374 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:56,581 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:56,678 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:56,965 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:57,025 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:57,185 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:57,351 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:57,498 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:57,544 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:57,828 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:57,913 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:57,974 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:58,322 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:58,382 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:58,526 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:58,561 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:58,772 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:58,839 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:58,894 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:58,994 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:59,220 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:59,342 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:59,473 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:59,559 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:59,623 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:43:59,996 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:44:00,106 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:44:00,277 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:44:00,468 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:47:13,078 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-01 12:47:13,080 - WARNING - Initiating bot restart...
+2025-11-01 12:47:13,090 - ERROR - Error during pre-restart cleanup: (pid=16186)
+2025-11-01 12:47:13,723 - INFO - Main execution block started.
+2025-11-01 12:47:13,723 - INFO - Starting client for ID: 4219768904
+2025-11-01 12:47:13,868 - INFO - Shutdown signal received. Exiting.
+2025-11-01 12:47:17,385 - INFO - Main execution block started.
+2025-11-01 12:47:17,385 - INFO - Starting client for ID: 4219768904
+2025-11-01 12:47:18,848 - INFO - Token decoded and processed. Account ID: 13552627177
+2025-11-01 12:47:18,848 - INFO - Final token constructed successfully.
+2025-11-01 12:47:19,047 - INFO -  Con port 39699 Host 202.81.108.107 
+2025-11-01 12:47:30,113 - INFO - Resetting bot state to solo before /sm spam.
+2025-11-01 12:47:35,426 - WARNING - Warning: '1' key is missing in parsed_data, skipping...
+2025-11-01 12:47:35,427 - CRITICAL - A critical unhandled error occurred in the main connect loop: 'data'. The bot will restart.
+2025-11-01 12:47:35,427 - WARNING - Initiating bot restart...
+2025-11-01 12:47:35,437 - ERROR - Error during pre-restart cleanup: (pid=17879)
+2025-11-01 12:47:36,088 - INFO - Main execution block started.
+2025-11-01 12:47:36,088 - INFO - Starting client for ID: 4219768904
+2025-11-01 12:47:37,532 - INFO - Token decoded and processed. Account ID: 13552627177
+2025-11-01 12:47:37,534 - INFO - Final token constructed successfully.
+2025-11-01 12:47:37,674 - INFO -  Con port 39699 Host 202.81.108.107 
+2025-11-01 12:47:57,588 - INFO - Resetting bot state to solo before /sm spam.
+2025-11-01 12:48:02,875 - WARNING - Warning: '1' key is missing in parsed_data, skipping...
+2025-11-01 12:48:02,877 - CRITICAL - A critical unhandled error occurred in the main connect loop: 'data'. The bot will restart.
+2025-11-01 12:48:02,877 - WARNING - Initiating bot restart...
+2025-11-01 12:48:02,895 - ERROR - Error during pre-restart cleanup: (pid=17879)
+2025-11-01 12:48:03,895 - INFO - Main execution block started.
+2025-11-01 12:48:03,895 - INFO - Starting client for ID: 4219768904
+2025-11-01 12:48:05,371 - INFO - Token decoded and processed. Account ID: 13552627177
+2025-11-01 12:48:05,372 - INFO - Final token constructed successfully.
+2025-11-01 12:48:05,518 - INFO -  Con port 39699 Host 202.81.108.107 
+2025-11-01 12:48:20,645 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:48:52,037 - INFO - Shutdown signal received. Exiting.
+2025-11-01 12:48:54,559 - INFO - Main execution block started.
+2025-11-01 12:48:54,559 - INFO - Starting client for ID: 4219768904
+2025-11-01 12:48:56,566 - INFO - Token decoded and processed. Account ID: 13552627177
+2025-11-01 12:48:56,567 - INFO - Final token constructed successfully.
+2025-11-01 12:48:56,719 - INFO -  Con port 39699 Host 202.81.108.107 
+2025-11-01 12:49:06,590 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 12:50:30,156 - INFO - Shutdown signal received. Exiting.
+2025-11-01 13:16:45,113 - INFO - Main execution block started.
+2025-11-01 13:16:45,114 - INFO - Starting client for ID: 4219768904
+2025-11-01 13:16:46,694 - INFO - Token decoded and processed. Account ID: 13552627177
+2025-11-01 13:16:46,694 - INFO - Final token constructed successfully.
+2025-11-01 13:16:46,826 - INFO -  Con port 39699 Host 202.81.108.107 
+2025-11-01 13:17:08,883 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:08,938 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:08,991 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:09,048 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:09,317 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:09,353 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:09,420 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:09,517 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:09,621 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:09,738 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:09,792 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:10,049 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:10,104 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:10,221 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:10,517 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:10,571 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:10,907 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:10,994 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:11,049 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:11,130 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:11,225 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:11,506 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:11,618 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:11,699 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:11,908 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:11,996 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:12,050 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:12,151 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:12,449 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:12,642 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:12,916 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:12,976 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:13,033 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:13,219 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:13,283 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:13,429 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:13,545 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:13,617 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:13,795 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:13,937 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:14,125 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:14,258 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:14,337 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:14,599 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:14,672 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:14,787 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:14,922 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:14,991 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:15,154 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:15,221 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:15,350 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:15,679 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:15,818 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:15,891 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:15,960 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:16,031 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:16,318 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:16,387 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:16,529 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:16,797 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:16,866 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:17,047 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:17,164 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:17,233 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:17,302 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:17,413 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:17,482 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:17,757 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:17,826 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:17,897 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:18,185 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:18,259 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:18,318 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:18,635 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:18,705 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:18,798 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:18,868 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:19,191 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:19,311 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:19,422 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:19,730 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:19,901 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:19,962 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:20,250 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:20,322 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:20,381 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:20,704 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:20,772 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:20,840 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:21,175 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:21,260 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:21,321 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:21,687 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:21,892 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:22,048 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:22,115 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:22,238 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:22,378 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:22,514 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:22,582 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:22,688 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:23,013 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:23,076 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:23,189 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:23,472 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:23,661 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:23,770 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:23,901 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:24,045 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:24,209 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:24,326 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:24,474 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:24,641 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:24,768 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:24,842 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:25,215 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:25,288 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:25,417 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:25,474 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:25,830 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:25,937 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:25,991 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:26,046 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:26,345 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:26,507 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:26,834 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:26,921 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:26,995 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:27,063 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:27,320 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:27,396 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:27,452 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:27,597 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:27,765 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:27,857 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:27,913 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:27,942 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:28,239 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:28,318 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:28,478 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:28,596 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:28,798 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:28,926 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:28,992 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:29,026 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:29,210 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:29,349 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:29,505 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:29,535 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:29,685 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:29,829 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:29,968 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:30,116 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:30,252 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:30,327 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:30,413 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:30,603 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:30,671 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:30,729 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:30,866 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:31,050 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:31,138 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:31,254 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:31,310 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:31,464 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:31,595 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:31,651 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:31,706 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:31,849 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:32,000 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:32,036 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:32,124 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:32,180 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:32,417 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:32,489 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:32,546 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:32,601 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:32,860 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:32,943 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:32,998 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:33,053 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:33,110 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:33,436 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:33,508 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:33,578 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:33,674 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:33,745 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:34,034 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:34,093 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:34,155 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:34,220 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:34,502 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:34,531 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:34,600 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:34,653 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:34,708 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:34,949 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:35,044 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:35,123 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:35,177 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:35,465 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:35,521 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:35,577 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:35,850 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:35,906 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:36,007 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:36,067 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:36,350 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:36,403 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:36,458 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:36,733 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:36,837 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:36,908 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:37,230 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:37,282 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:37,389 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:37,442 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:37,672 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:37,754 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:37,881 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:37,936 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:38,265 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:38,408 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:38,548 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:38,762 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:38,900 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:38,971 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:39,058 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:39,323 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:39,398 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:39,883 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:39,940 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:39,996 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:17:40,051 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-01 13:18:36,120 - INFO - Shutdown signal received. Exiting.
+2025-11-01 13:18:39,710 - INFO - Main execution block started.
+2025-11-01 13:18:39,710 - INFO - Starting client for ID: 4219768904
+2025-11-01 13:18:41,439 - INFO - Token decoded and processed. Account ID: 13552627177
+2025-11-01 13:18:41,440 - INFO - Final token constructed successfully.
+2025-11-01 13:18:41,609 - INFO -  Con port 39699 Host 202.81.108.107 
+2025-11-01 13:18:48,493 - INFO - Resetting bot state to solo before /sm spam.
+2025-11-01 13:18:53,810 - WARNING - Warning: '1' key is missing in parsed_data, skipping...
+2025-11-01 13:18:53,811 - CRITICAL - A critical unhandled error occurred in the main connect loop: 'data'. The bot will restart.
+2025-11-01 13:18:53,811 - WARNING - Initiating bot restart...
+2025-11-01 13:18:53,821 - ERROR - Error during pre-restart cleanup: (pid=20563)
+2025-11-01 13:18:54,464 - INFO - Main execution block started.
+2025-11-01 13:18:54,465 - INFO - Starting client for ID: 4219768904
+2025-11-01 13:18:55,888 - INFO - Token decoded and processed. Account ID: 13552627177
+2025-11-01 13:18:55,888 - INFO - Final token constructed successfully.
+2025-11-01 13:18:56,060 - INFO -  Con port 39699 Host 202.81.108.107 
+2025-11-01 13:19:07,910 - INFO - Resetting bot state to solo before /sm spam.
+2025-11-01 13:19:27,516 - INFO - Shutdown signal received. Exiting.
+2025-11-01 18:23:47,332 - INFO - Main execution block started.
+2025-11-01 18:23:47,332 - INFO - Starting client for ID: 4219768904
+2025-11-01 18:23:49,034 - INFO - Token decoded and processed. Account ID: 13552627177
+2025-11-01 18:23:49,035 - INFO - Final token constructed successfully.
+2025-11-01 18:23:49,159 - INFO -  Con port 39699 Host 202.81.108.107 
+2025-11-01 18:26:49,241 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-01 18:26:49,245 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-01 18:26:49,247 - WARNING - Initiating bot restart...
+2025-11-01 18:26:49,247 - WARNING - Initiating bot restart...
+2025-11-01 18:26:49,259 - ERROR - Error during pre-restart cleanup: (pid=15254)
+2025-11-01 18:26:50,145 - INFO - Main execution block started.
+2025-11-01 18:26:50,145 - INFO - Starting client for ID: 4219768904
+2025-11-01 18:26:51,561 - INFO - Token decoded and processed. Account ID: 13552627177
+2025-11-01 18:26:51,562 - INFO - Final token constructed successfully.
+2025-11-01 18:26:51,665 - INFO -  Con port 39699 Host 202.81.108.107 
+2025-11-01 18:28:06,176 - INFO - Shutdown signal received. Exiting.
+2025-11-02 07:09:00,669 - INFO - Main execution block started.
+2025-11-02 07:09:00,669 - INFO - Starting client for ID: 4052641394
+2025-11-02 07:09:00,694 - CRITICAL - A critical error occurred in the main execution block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70481f27b0>: Failed to establish a new connection: [Errno 7] No address associated with hostname'))
+2025-11-02 07:09:00,695 - INFO - Restarting the entire application in 5 seconds...
+2025-11-02 07:09:05,696 - WARNING - Initiating bot restart...
+2025-11-02 07:09:06,681 - INFO - Main execution block started.
+2025-11-02 07:09:06,681 - INFO - Starting client for ID: 4052641394
+2025-11-02 07:09:12,483 - ERROR - Request failed: 401 Client Error: Unauthorized for url: https://client.ind.freefiremobile.com/GetLoginData. Attempt 1 of 3. Retrying...
+2025-11-02 07:09:16,249 - ERROR - Request failed: 401 Client Error: Unauthorized for url: https://client.ind.freefiremobile.com/GetLoginData. Attempt 2 of 3. Retrying...
+2025-11-02 07:09:24,418 - ERROR - Request failed: 401 Client Error: Unauthorized for url: https://client.ind.freefiremobile.com/GetLoginData. Attempt 3 of 3. Retrying...
+2025-11-02 07:09:26,419 - CRITICAL - Failed to get login data after multiple attempts. Restarting.
+2025-11-02 07:09:26,419 - WARNING - Initiating bot restart...
+2025-11-02 07:09:26,430 - ERROR - Error during pre-restart cleanup: (pid=23112)
+2025-11-02 07:09:27,491 - INFO - Main execution block started.
+2025-11-02 07:09:27,492 - INFO - Starting client for ID: 4052641394
+2025-11-02 07:09:50,015 - ERROR - Request failed: 401 Client Error: Unauthorized for url: https://client.ind.freefiremobile.com/GetLoginData. Attempt 1 of 3. Retrying...
+2025-11-02 07:09:54,340 - ERROR - Request failed: 401 Client Error: Unauthorized for url: https://client.ind.freefiremobile.com/GetLoginData. Attempt 2 of 3. Retrying...
+2025-11-02 07:10:17,039 - ERROR - Request failed: 401 Client Error: Unauthorized for url: https://client.ind.freefiremobile.com/GetLoginData. Attempt 3 of 3. Retrying...
+2025-11-02 07:10:19,046 - CRITICAL - Failed to get login data after multiple attempts. Restarting.
+2025-11-02 07:10:19,048 - WARNING - Initiating bot restart...
+2025-11-02 07:10:19,079 - ERROR - Error during pre-restart cleanup: (pid=23112)
+2025-11-02 07:10:20,499 - INFO - Main execution block started.
+2025-11-02 07:10:20,500 - INFO - Starting client for ID: 4052641394
+2025-11-02 07:10:25,445 - ERROR - Request failed: 401 Client Error: Unauthorized for url: https://client.ind.freefiremobile.com/GetLoginData. Attempt 1 of 3. Retrying...
+2025-11-02 07:11:03,817 - ERROR - Request failed: 401 Client Error: Unauthorized for url: https://client.ind.freefiremobile.com/GetLoginData. Attempt 2 of 3. Retrying...
+2025-11-02 07:11:13,312 - ERROR - Request failed: 401 Client Error: Unauthorized for url: https://client.ind.freefiremobile.com/GetLoginData. Attempt 3 of 3. Retrying...
+2025-11-02 07:11:15,314 - CRITICAL - Failed to get login data after multiple attempts. Restarting.
+2025-11-02 07:11:15,314 - WARNING - Initiating bot restart...
+2025-11-02 07:11:15,323 - ERROR - Error during pre-restart cleanup: (pid=23112)
+2025-11-02 07:12:34,289 - INFO - Main execution block started.
+2025-11-02 07:12:34,290 - INFO - Starting client for ID: 4052641394
+2025-11-02 07:12:49,130 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-02 07:12:49,131 - INFO - Final token constructed successfully.
+2025-11-02 07:12:49,387 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-02 07:14:08,653 - CRITICAL - Unhandled error in sockf1 loop: [Errno 103] Software caused connection abort. Restarting bot.
+2025-11-02 07:14:08,655 - WARNING - Initiating bot restart...
+2025-11-02 07:14:08,654 - ERROR - [WHISPER] Error in xr command: [Errno 32] Broken pipe
+2025-11-02 07:14:08,660 - CRITICAL - A critical unhandled error occurred in the main connect loop: [Errno 103] Software caused connection abort. The bot will restart.
+2025-11-02 07:14:08,661 - WARNING - Initiating bot restart...
+2025-11-02 07:14:08,665 - ERROR - Error during pre-restart cleanup: (pid=25465)
+2025-11-02 07:14:10,189 - INFO - Main execution block started.
+2025-11-02 07:14:10,189 - INFO - Starting client for ID: 4052641394
+2025-11-02 07:14:17,775 - ERROR - Request failed: 401 Client Error: Unauthorized for url: https://client.ind.freefiremobile.com/GetLoginData. Attempt 1 of 3. Retrying...
+2025-11-02 07:14:38,668 - INFO - Main execution block started.
+2025-11-02 07:14:38,673 - INFO - Starting client for ID: 4052641394
+2025-11-02 07:14:42,900 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-02 07:14:42,902 - INFO - Final token constructed successfully.
+2025-11-02 07:14:43,148 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-02 07:15:21,998 - INFO - Main execution block started.
+2025-11-02 07:15:22,000 - INFO - Starting client for ID: 4052641394
+2025-11-02 07:15:26,681 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-02 07:15:26,682 - INFO - Final token constructed successfully.
+2025-11-02 07:15:26,920 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-02 07:15:44,702 - INFO - Resetting bot state to solo before /sm spam.
+2025-11-02 07:15:57,782 - INFO - Resetting bot state to solo before /sm spam.
+2025-11-02 07:16:15,295 - INFO - Main execution block started.
+2025-11-02 07:16:15,296 - INFO - Starting client for ID: 4052641394
+2025-11-02 07:16:19,078 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-02 07:16:19,079 - INFO - Final token constructed successfully.
+2025-11-02 07:16:19,311 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-02 07:17:52,353 - INFO - Main execution block started.
+2025-11-02 07:17:52,363 - INFO - Starting client for ID: 4160614447
+2025-11-02 07:17:56,517 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 07:17:56,517 - INFO - Final token constructed successfully.
+2025-11-02 07:17:56,848 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 07:18:42,378 - CRITICAL - A critical unhandled error occurred in the main connect loop: 'int' object is not subscriptable. The bot will restart.
+2025-11-02 07:18:42,379 - WARNING - Initiating bot restart...
+2025-11-02 07:18:42,382 - ERROR - Error during pre-restart cleanup: (pid=27394)
+2025-11-02 07:18:44,230 - INFO - Main execution block started.
+2025-11-02 07:18:44,231 - INFO - Starting client for ID: 4160614447
+2025-11-02 07:19:38,945 - INFO - Main execution block started.
+2025-11-02 07:19:38,947 - INFO - Starting client for ID: 4160614447
+2025-11-02 07:19:43,563 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 07:19:43,564 - INFO - Final token constructed successfully.
+2025-11-02 07:19:44,059 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 07:20:32,738 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 07:20:32,739 - WARNING - Initiating bot restart...
+2025-11-02 07:20:32,742 - ERROR - Error during pre-restart cleanup: (pid=28073)
+2025-11-02 07:20:34,434 - INFO - Main execution block started.
+2025-11-02 07:20:34,435 - INFO - Starting client for ID: 4160614447
+2025-11-02 07:20:38,481 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 07:20:38,482 - INFO - Final token constructed successfully.
+2025-11-02 07:20:38,709 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 07:23:35,277 - INFO - Main execution block started.
+2025-11-02 07:23:35,281 - INFO - Starting client for ID: 4160614447
+2025-11-02 07:23:38,326 - ERROR - Request failed: 404 Client Error: Not Found for url: https://clientbp.common.ggbluefox.com/GetLogMEata. Attempt 1 of 3. Retrying...
+2025-11-02 07:23:41,484 - ERROR - Request failed: 404 Client Error: Not Found for url: https://clientbp.common.ggbluefox.com/GetLogMEata. Attempt 2 of 3. Retrying...
+2025-11-02 07:23:48,953 - ERROR - Request failed: 404 Client Error: Not Found for url: https://clientbp.common.ggbluefox.com/GetLogMEata. Attempt 3 of 3. Retrying...
+2025-11-02 07:23:50,954 - CRITICAL - Failed to get login data after multiple attempts. Restarting.
+2025-11-02 07:23:50,955 - WARNING - Initiating bot restart...
+2025-11-02 07:23:50,960 - ERROR - Error during pre-restart cleanup: (pid=28830)
+2025-11-02 07:23:53,243 - INFO - Main execution block started.
+2025-11-02 07:23:53,245 - INFO - Starting client for ID: 4160614447
+2025-11-02 07:23:57,383 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 07:23:57,384 - INFO - Final token constructed successfully.
+2025-11-02 07:23:57,602 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 07:24:10,516 - INFO - Main execution block started.
+2025-11-02 07:24:10,517 - INFO - Starting client for ID: 4160614447
+2025-11-02 07:24:24,537 - ERROR - Request failed: 401 Client Error: Unauthorized for url: https://client.ind.freefiremobile.com/GetLoginData. Attempt 1 of 3. Retrying...
+2025-11-02 07:24:27,835 - ERROR - Request failed: 401 Client Error: Unauthorized for url: https://client.ind.freefiremobile.com/GetLoginData. Attempt 2 of 3. Retrying...
+2025-11-02 07:24:31,095 - ERROR - Request failed: 401 Client Error: Unauthorized for url: https://client.ind.freefiremobile.com/GetLoginData. Attempt 3 of 3. Retrying...
+2025-11-02 07:24:33,096 - CRITICAL - Failed to get login data after multiple attempts. Restarting.
+2025-11-02 07:24:33,096 - WARNING - Initiating bot restart...
+2025-11-02 07:24:33,099 - ERROR - Error during pre-restart cleanup: (pid=29388)
+2025-11-02 07:24:34,705 - INFO - Main execution block started.
+2025-11-02 07:24:34,706 - INFO - Starting client for ID: 4160614447
+2025-11-02 07:24:38,185 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 07:24:38,186 - INFO - Final token constructed successfully.
+2025-11-02 07:24:38,446 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 07:25:24,526 - INFO - Main execution block started.
+2025-11-02 07:25:24,528 - INFO - Starting client for ID: 4160614447
+2025-11-02 07:25:28,853 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 07:25:28,854 - INFO - Final token constructed successfully.
+2025-11-02 07:25:29,086 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 07:27:24,454 - INFO - Main execution block started.
+2025-11-02 07:27:24,456 - INFO - Starting client for ID: 4160614447
+2025-11-02 07:27:34,906 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 07:27:34,907 - INFO - Final token constructed successfully.
+2025-11-02 07:27:35,339 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 08:59:40,958 - INFO - Main execution block started.
+2025-11-02 08:59:40,961 - INFO - Starting client for ID: 4160614447
+2025-11-02 08:59:45,060 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 08:59:45,063 - INFO - Final token constructed successfully.
+2025-11-02 08:59:45,260 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 09:00:32,220 - INFO - Resetting bot state to solo before /sm spam.
+2025-11-02 09:05:07,662 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 09:05:07,664 - WARNING - Initiating bot restart...
+2025-11-02 09:05:07,672 - ERROR - Error during pre-restart cleanup: (pid=31892)
+2025-11-02 09:11:31,144 - INFO - Main execution block started.
+2025-11-02 09:11:31,144 - INFO - Starting client for ID: 4160614447
+2025-11-02 15:59:38,297 - INFO - Main execution block started.
+2025-11-02 15:59:38,304 - INFO - Starting client for ID: 4160614447
+2025-11-02 16:00:03,436 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 16:00:03,437 - INFO - Final token constructed successfully.
+2025-11-02 16:00:03,697 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 16:03:03,802 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 16:03:03,804 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 16:03:03,809 - WARNING - Initiating bot restart...
+2025-11-02 16:03:03,809 - WARNING - Initiating bot restart...
+2025-11-02 16:03:03,824 - ERROR - Error during pre-restart cleanup: (pid=10372)
+2025-11-02 16:03:03,825 - ERROR - Error during pre-restart cleanup: (pid=10372)
+2025-11-02 16:03:06,080 - INFO - Main execution block started.
+2025-11-02 16:03:06,081 - INFO - Starting client for ID: 4160614447
+2025-11-02 16:03:10,478 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 16:03:10,479 - INFO - Final token constructed successfully.
+2025-11-02 16:03:10,658 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 16:06:10,700 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 16:06:10,713 - WARNING - Initiating bot restart...
+2025-11-02 16:06:10,728 - ERROR - Error during pre-restart cleanup: (pid=10372)
+2025-11-02 16:06:13,486 - INFO - Main execution block started.
+2025-11-02 16:06:13,486 - INFO - Starting client for ID: 4160614447
+2025-11-02 16:06:17,678 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 16:06:17,679 - INFO - Final token constructed successfully.
+2025-11-02 16:06:17,882 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 16:07:20,528 - INFO - Main execution block started.
+2025-11-02 16:07:20,528 - INFO - Starting client for ID: 4160614447
+2025-11-02 16:07:24,442 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 16:07:24,444 - INFO - Final token constructed successfully.
+2025-11-02 16:07:24,626 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 16:08:20,543 - CRITICAL - A critical unhandled error occurred in the main connect loop: 'int' object is not subscriptable. The bot will restart.
+2025-11-02 16:08:20,547 - WARNING - Initiating bot restart...
+2025-11-02 16:08:20,555 - ERROR - Error during pre-restart cleanup: (pid=15318)
+2025-11-02 16:08:45,083 - INFO - Main execution block started.
+2025-11-02 16:08:45,087 - INFO - Starting client for ID: 4160614447
+2025-11-02 16:08:48,399 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 16:08:48,400 - INFO - Final token constructed successfully.
+2025-11-02 16:08:48,589 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 16:08:54,337 - INFO - Main execution block started.
+2025-11-02 16:08:54,338 - INFO - Starting client for ID: 4160614447
+2025-11-02 16:08:57,615 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 16:08:57,617 - INFO - Final token constructed successfully.
+2025-11-02 16:08:57,795 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 16:09:46,662 - CRITICAL - A critical unhandled error occurred in the main connect loop: 'int' object is not subscriptable. The bot will restart.
+2025-11-02 16:09:46,663 - WARNING - Initiating bot restart...
+2025-11-02 16:09:46,666 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 16:10:06,591 - INFO - Main execution block started.
+2025-11-02 16:10:06,592 - INFO - Starting client for ID: 4160614447
+2025-11-02 16:10:10,960 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 16:10:10,961 - INFO - Final token constructed successfully.
+2025-11-02 16:10:11,147 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 16:10:27,377 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-02 16:11:52,087 - INFO - Resetting bot state to solo before /sm spam.
+2025-11-02 16:14:56,412 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 16:14:56,414 - WARNING - Initiating bot restart...
+2025-11-02 16:14:56,431 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 16:14:58,591 - INFO - Main execution block started.
+2025-11-02 16:14:58,592 - INFO - Starting client for ID: 4160614447
+2025-11-02 16:15:05,685 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 16:15:05,686 - INFO - Final token constructed successfully.
+2025-11-02 16:15:05,874 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 16:18:06,159 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 16:18:06,162 - WARNING - Initiating bot restart...
+2025-11-02 16:18:06,164 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 16:18:06,165 - WARNING - Initiating bot restart...
+2025-11-02 16:18:06,178 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 16:18:07,644 - INFO - Main execution block started.
+2025-11-02 16:18:07,645 - INFO - Starting client for ID: 4160614447
+2025-11-02 16:18:12,318 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 16:18:12,319 - INFO - Final token constructed successfully.
+2025-11-02 16:18:12,496 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 16:21:13,085 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 16:21:13,087 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 16:21:13,097 - WARNING - Initiating bot restart...
+2025-11-02 16:21:13,099 - WARNING - Initiating bot restart...
+2025-11-02 16:21:13,112 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 16:21:17,579 - INFO - Main execution block started.
+2025-11-02 16:21:17,580 - INFO - Starting client for ID: 4160614447
+2025-11-02 16:21:22,287 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 16:21:22,288 - INFO - Final token constructed successfully.
+2025-11-02 16:21:22,501 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 16:24:22,575 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 16:24:22,577 - WARNING - Initiating bot restart...
+2025-11-02 16:24:22,595 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 16:24:23,990 - INFO - Main execution block started.
+2025-11-02 16:24:23,990 - INFO - Starting client for ID: 4160614447
+2025-11-02 16:24:28,352 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 16:24:28,353 - INFO - Final token constructed successfully.
+2025-11-02 16:24:28,542 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 16:29:30,303 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 16:29:30,304 - WARNING - Initiating bot restart...
+2025-11-02 16:29:30,307 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 16:29:30,308 - WARNING - Initiating bot restart...
+2025-11-02 16:29:30,315 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 16:29:31,992 - INFO - Main execution block started.
+2025-11-02 16:29:31,993 - INFO - Starting client for ID: 4160614447
+2025-11-02 16:29:37,676 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 16:29:37,677 - INFO - Final token constructed successfully.
+2025-11-02 16:29:37,857 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 16:32:37,968 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 16:32:37,970 - WARNING - Initiating bot restart...
+2025-11-02 16:32:37,987 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 16:32:40,599 - INFO - Main execution block started.
+2025-11-02 16:32:40,600 - INFO - Starting client for ID: 4160614447
+2025-11-02 16:32:45,880 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 16:32:45,881 - INFO - Final token constructed successfully.
+2025-11-02 16:32:46,072 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 16:35:46,107 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 16:35:46,108 - WARNING - Initiating bot restart...
+2025-11-02 16:35:46,120 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 16:35:47,356 - INFO - Main execution block started.
+2025-11-02 16:35:47,356 - INFO - Starting client for ID: 4160614447
+2025-11-02 16:42:11,269 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 16:42:11,270 - INFO - Final token constructed successfully.
+2025-11-02 16:42:11,481 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 16:43:39,721 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-02 16:45:47,821 - WARNING - Scheduled 10-minute restart from sockf1.
+2025-11-02 16:45:47,823 - WARNING - Initiating bot restart...
+2025-11-02 16:45:47,850 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 16:45:47,851 - WARNING - Scheduled 10-minute restart from connect loop.
+2025-11-02 16:55:01,800 - INFO - Main execution block started.
+2025-11-02 16:55:01,803 - INFO - Starting client for ID: 4160614447
+2025-11-02 16:55:05,797 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 16:55:05,798 - INFO - Final token constructed successfully.
+2025-11-02 16:55:05,981 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 16:55:59,470 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-02 16:59:25,440 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 16:59:25,454 - WARNING - Initiating bot restart...
+2025-11-02 16:59:25,484 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 16:59:27,665 - INFO - Main execution block started.
+2025-11-02 16:59:27,665 - INFO - Starting client for ID: 4160614447
+2025-11-02 16:59:32,500 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 16:59:32,501 - INFO - Final token constructed successfully.
+2025-11-02 16:59:32,715 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 17:02:32,730 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 17:02:32,733 - WARNING - Initiating bot restart...
+2025-11-02 17:02:32,766 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 17:02:34,112 - INFO - Main execution block started.
+2025-11-02 17:02:34,113 - INFO - Starting client for ID: 4160614447
+2025-11-02 17:02:38,584 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 17:02:38,585 - INFO - Final token constructed successfully.
+2025-11-02 17:02:38,775 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 17:05:38,944 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 17:05:38,948 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 17:05:38,951 - WARNING - Initiating bot restart...
+2025-11-02 17:05:38,952 - WARNING - Initiating bot restart...
+2025-11-02 17:05:38,969 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 17:05:41,038 - INFO - Main execution block started.
+2025-11-02 17:05:41,039 - INFO - Starting client for ID: 4160614447
+2025-11-02 17:05:45,414 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 17:05:45,415 - INFO - Final token constructed successfully.
+2025-11-02 17:05:45,591 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 17:08:45,825 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 17:08:45,825 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 17:08:45,827 - WARNING - Initiating bot restart...
+2025-11-02 17:08:45,827 - WARNING - Initiating bot restart...
+2025-11-02 17:08:45,839 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 17:08:47,938 - INFO - Main execution block started.
+2025-11-02 17:08:47,938 - INFO - Starting client for ID: 4160614447
+2025-11-02 17:08:51,943 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 17:08:51,944 - INFO - Final token constructed successfully.
+2025-11-02 17:09:07,367 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 17:12:07,947 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 17:12:07,949 - WARNING - Initiating bot restart...
+2025-11-02 17:12:07,951 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 17:12:07,956 - WARNING - Initiating bot restart...
+2025-11-02 17:12:07,974 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 17:12:14,547 - INFO - Main execution block started.
+2025-11-02 17:12:14,548 - INFO - Starting client for ID: 4160614447
+2025-11-02 17:12:18,300 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 17:12:18,301 - INFO - Final token constructed successfully.
+2025-11-02 17:12:18,536 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 17:15:18,563 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 17:15:18,565 - WARNING - Initiating bot restart...
+2025-11-02 17:15:18,587 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 17:15:20,121 - INFO - Main execution block started.
+2025-11-02 17:15:20,121 - INFO - Starting client for ID: 4160614447
+2025-11-02 17:16:20,941 - CRITICAL - A critical error occurred in the main execution block: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-11-02 17:16:20,943 - INFO - Restarting the entire application in 5 seconds...
+2025-11-02 17:22:41,188 - WARNING - Initiating bot restart...
+2025-11-02 17:22:42,635 - INFO - Main execution block started.
+2025-11-02 17:22:42,636 - INFO - Starting client for ID: 4160614447
+2025-11-02 17:22:47,213 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 17:22:47,214 - INFO - Final token constructed successfully.
+2025-11-02 17:22:47,419 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 17:25:47,437 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 17:25:47,438 - WARNING - Initiating bot restart...
+2025-11-02 17:25:47,447 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 17:25:48,752 - INFO - Main execution block started.
+2025-11-02 17:25:48,753 - INFO - Starting client for ID: 4160614447
+2025-11-02 17:25:54,662 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 17:25:54,662 - INFO - Final token constructed successfully.
+2025-11-02 17:25:54,842 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 17:28:23,017 - INFO - Resetting bot state to solo before /sm spam.
+2025-11-02 17:28:28,422 - INFO - Resetting bot state to solo before /sm spam.
+2025-11-02 17:28:58,865 - INFO - Resetting bot state to solo before /sm spam.
+2025-11-02 17:29:04,878 - INFO - Resetting bot state to solo before /sm spam.
+2025-11-02 17:30:15,440 - INFO - Resetting bot state to solo before /sm spam.
+2025-11-02 17:30:31,212 - INFO - Resetting bot state to solo before /sm spam.
+2025-11-02 17:33:47,631 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 17:33:47,633 - WARNING - Initiating bot restart...
+2025-11-02 17:33:47,653 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 17:33:50,011 - INFO - Main execution block started.
+2025-11-02 17:33:50,012 - INFO - Starting client for ID: 4160614447
+2025-11-02 17:35:37,680 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 17:35:37,681 - INFO - Final token constructed successfully.
+2025-11-02 17:35:37,854 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 17:38:38,218 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 17:38:38,219 - WARNING - Initiating bot restart...
+2025-11-02 17:38:38,221 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 17:38:38,222 - WARNING - Initiating bot restart...
+2025-11-02 17:38:38,225 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 17:38:39,930 - INFO - Main execution block started.
+2025-11-02 17:38:39,931 - INFO - Starting client for ID: 4160614447
+2025-11-02 17:38:44,901 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 17:38:44,902 - INFO - Final token constructed successfully.
+2025-11-02 17:38:45,079 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 17:41:45,237 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 17:41:45,239 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 17:41:45,243 - WARNING - Initiating bot restart...
+2025-11-02 17:41:45,245 - WARNING - Initiating bot restart...
+2025-11-02 17:41:45,263 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 17:41:46,582 - INFO - Main execution block started.
+2025-11-02 17:41:46,583 - INFO - Starting client for ID: 4160614447
+2025-11-02 17:41:51,998 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 17:41:51,999 - INFO - Final token constructed successfully.
+2025-11-02 17:41:52,223 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 17:44:52,362 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 17:44:52,364 - WARNING - Initiating bot restart...
+2025-11-02 17:44:52,371 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 17:44:52,374 - WARNING - Initiating bot restart...
+2025-11-02 17:44:52,390 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 17:47:15,155 - INFO - Main execution block started.
+2025-11-02 17:47:15,156 - INFO - Starting client for ID: 4160614447
+2025-11-02 17:47:20,183 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 17:47:20,184 - INFO - Final token constructed successfully.
+2025-11-02 17:47:20,386 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 17:50:20,417 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 17:50:20,417 - WARNING - Initiating bot restart...
+2025-11-02 17:50:20,434 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 17:50:22,153 - INFO - Main execution block started.
+2025-11-02 17:50:22,153 - INFO - Starting client for ID: 4160614447
+2025-11-02 17:50:28,647 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 17:50:28,648 - INFO - Final token constructed successfully.
+2025-11-02 17:50:28,850 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 17:53:29,163 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 17:53:29,164 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 17:53:29,169 - WARNING - Initiating bot restart...
+2025-11-02 17:53:29,167 - WARNING - Initiating bot restart...
+2025-11-02 17:53:29,190 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 17:53:30,724 - INFO - Main execution block started.
+2025-11-02 17:53:30,724 - INFO - Starting client for ID: 4160614447
+2025-11-02 18:02:36,626 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 18:02:36,629 - INFO - Final token constructed successfully.
+2025-11-02 18:02:36,816 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 18:05:36,863 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 18:05:36,869 - WARNING - Initiating bot restart...
+2025-11-02 18:05:36,917 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 18:05:39,169 - INFO - Main execution block started.
+2025-11-02 18:05:39,169 - INFO - Starting client for ID: 4160614447
+2025-11-02 18:05:43,327 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 18:05:43,328 - INFO - Final token constructed successfully.
+2025-11-02 18:05:43,565 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 18:08:43,872 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 18:08:43,874 - WARNING - Initiating bot restart...
+2025-11-02 18:08:43,875 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 18:08:43,879 - WARNING - Initiating bot restart...
+2025-11-02 18:08:43,886 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 18:08:45,331 - INFO - Main execution block started.
+2025-11-02 18:08:45,331 - INFO - Starting client for ID: 4160614447
+2025-11-02 18:10:24,984 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 18:10:24,988 - INFO - Final token constructed successfully.
+2025-11-02 18:10:25,173 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 18:13:25,195 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 18:13:25,195 - WARNING - Initiating bot restart...
+2025-11-02 18:13:25,218 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 18:13:27,233 - INFO - Main execution block started.
+2025-11-02 18:13:27,233 - INFO - Starting client for ID: 4160614447
+2025-11-02 18:13:31,227 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 18:13:31,228 - INFO - Final token constructed successfully.
+2025-11-02 18:13:31,407 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 18:16:31,748 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 18:16:31,751 - WARNING - Initiating bot restart...
+2025-11-02 18:16:31,754 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 18:16:31,755 - WARNING - Initiating bot restart...
+2025-11-02 18:16:31,769 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 18:16:35,101 - INFO - Main execution block started.
+2025-11-02 18:16:35,103 - INFO - Starting client for ID: 4160614447
+2025-11-02 18:16:39,501 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 18:16:39,502 - INFO - Final token constructed successfully.
+2025-11-02 18:16:39,711 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 18:19:39,940 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 18:19:39,941 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 18:19:39,942 - WARNING - Initiating bot restart...
+2025-11-02 18:19:39,945 - WARNING - Initiating bot restart...
+2025-11-02 18:19:39,950 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 18:19:41,400 - INFO - Main execution block started.
+2025-11-02 18:19:41,401 - INFO - Starting client for ID: 4160614447
+2025-11-02 18:19:46,351 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 18:19:46,352 - INFO - Final token constructed successfully.
+2025-11-02 18:19:46,540 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 18:22:13,968 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-02 18:25:26,121 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 18:25:26,135 - WARNING - Initiating bot restart...
+2025-11-02 18:25:26,155 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 18:25:27,591 - INFO - Main execution block started.
+2025-11-02 18:25:27,591 - INFO - Starting client for ID: 4160614447
+2025-11-02 18:31:41,382 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 18:31:41,383 - INFO - Final token constructed successfully.
+2025-11-02 18:31:41,605 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 18:34:41,737 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 18:34:41,738 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 18:34:41,739 - WARNING - Initiating bot restart...
+2025-11-02 18:34:41,741 - WARNING - Initiating bot restart...
+2025-11-02 18:34:41,757 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 18:34:43,158 - INFO - Main execution block started.
+2025-11-02 18:34:43,159 - INFO - Starting client for ID: 4160614447
+2025-11-02 18:34:49,146 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 18:34:49,147 - INFO - Final token constructed successfully.
+2025-11-02 18:34:49,347 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 18:37:49,394 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 18:37:49,406 - WARNING - Initiating bot restart...
+2025-11-02 18:37:49,433 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 18:37:51,178 - INFO - Main execution block started.
+2025-11-02 18:37:51,179 - INFO - Starting client for ID: 4160614447
+2025-11-02 18:38:37,313 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 18:38:37,315 - INFO - Final token constructed successfully.
+2025-11-02 18:38:37,504 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 18:41:37,502 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 18:41:37,504 - WARNING - Initiating bot restart...
+2025-11-02 18:41:37,521 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 18:41:39,508 - INFO - Main execution block started.
+2025-11-02 18:41:39,508 - INFO - Starting client for ID: 4160614447
+2025-11-02 18:41:44,492 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 18:41:44,493 - INFO - Final token constructed successfully.
+2025-11-02 18:41:44,712 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 18:44:44,839 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 18:44:44,840 - WARNING - Initiating bot restart...
+2025-11-02 18:44:44,851 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 18:44:44,852 - WARNING - Initiating bot restart...
+2025-11-02 18:44:44,874 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 18:44:46,129 - INFO - Main execution block started.
+2025-11-02 18:44:46,130 - INFO - Starting client for ID: 4160614447
+2025-11-02 18:44:51,979 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 18:44:51,980 - INFO - Final token constructed successfully.
+2025-11-02 18:44:52,244 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 18:47:52,265 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 18:47:52,268 - WARNING - Initiating bot restart...
+2025-11-02 18:47:52,295 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 18:47:53,527 - INFO - Main execution block started.
+2025-11-02 18:47:53,528 - INFO - Starting client for ID: 4160614447
+2025-11-02 18:47:57,716 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 18:47:57,718 - INFO - Final token constructed successfully.
+2025-11-02 18:47:57,923 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 18:50:57,971 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 18:50:57,974 - WARNING - Initiating bot restart...
+2025-11-02 18:50:58,003 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 18:50:58,973 - INFO - Main execution block started.
+2025-11-02 18:50:58,973 - INFO - Starting client for ID: 4160614447
+2025-11-02 18:51:04,494 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 18:51:04,495 - INFO - Final token constructed successfully.
+2025-11-02 18:51:04,704 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 18:54:04,828 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 18:54:04,830 - WARNING - Initiating bot restart...
+2025-11-02 18:54:04,829 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 18:54:04,834 - WARNING - Initiating bot restart...
+2025-11-02 18:54:04,847 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 18:54:05,904 - INFO - Main execution block started.
+2025-11-02 18:54:05,904 - INFO - Starting client for ID: 4160614447
+2025-11-02 18:54:09,650 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 18:54:09,651 - INFO - Final token constructed successfully.
+2025-11-02 18:54:09,848 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 18:57:10,112 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 18:57:10,114 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 18:57:10,119 - WARNING - Initiating bot restart...
+2025-11-02 18:57:10,116 - WARNING - Initiating bot restart...
+2025-11-02 18:57:10,134 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 18:57:11,702 - INFO - Main execution block started.
+2025-11-02 18:57:11,703 - INFO - Starting client for ID: 4160614447
+2025-11-02 19:00:23,959 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 19:00:23,960 - INFO - Final token constructed successfully.
+2025-11-02 19:00:24,145 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 19:03:24,212 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 19:03:24,214 - WARNING - Initiating bot restart...
+2025-11-02 19:03:24,239 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 19:03:24,240 - WARNING - Initiating bot restart...
+2025-11-02 19:03:24,251 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 19:03:25,697 - INFO - Main execution block started.
+2025-11-02 19:03:25,698 - INFO - Starting client for ID: 4160614447
+2025-11-02 19:04:21,158 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 19:04:21,159 - INFO - Final token constructed successfully.
+2025-11-02 19:04:21,335 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 19:07:13,669 - ERROR - Error processing /4 command: invalid literal for int() with base 10: ')'. Restarting.
+2025-11-02 19:07:13,671 - WARNING - Initiating bot restart...
+2025-11-02 19:07:13,705 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 19:07:14,713 - INFO - Main execution block started.
+2025-11-02 19:07:14,714 - INFO - Starting client for ID: 4160614447
+2025-11-02 19:07:22,981 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 19:07:22,982 - INFO - Final token constructed successfully.
+2025-11-02 19:07:23,173 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 19:08:14,346 - ERROR - Error processing /5 command: invalid literal for int() with base 10: ')'. Restarting.
+2025-11-02 19:08:14,348 - WARNING - Initiating bot restart...
+2025-11-02 19:08:14,359 - ERROR - Error during pre-restart cleanup: (pid=16097)
+2025-11-02 19:13:31,464 - INFO - Main execution block started.
+2025-11-02 19:13:31,465 - INFO - Starting client for ID: 4160614447
+2025-11-02 19:13:35,748 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 19:13:35,751 - INFO - Final token constructed successfully.
+2025-11-02 19:13:35,997 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 19:20:17,314 - INFO - Main execution block started.
+2025-11-02 19:20:17,316 - INFO - Starting client for ID: 4160614447
+2025-11-02 19:20:22,532 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 19:20:22,533 - INFO - Final token constructed successfully.
+2025-11-02 19:20:22,735 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 19:22:07,952 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-02 19:26:00,432 - INFO - Main execution block started.
+2025-11-02 19:26:00,434 - INFO - Starting client for ID: 4160614447
+2025-11-02 19:26:05,073 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 19:26:05,074 - INFO - Final token constructed successfully.
+2025-11-02 19:26:05,288 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 19:27:14,631 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 19:27:14,632 - WARNING - Initiating bot restart...
+2025-11-02 19:27:14,643 - ERROR - Error during pre-restart cleanup: (pid=9620)
+2025-11-02 19:27:40,990 - INFO - Main execution block started.
+2025-11-02 19:27:40,991 - INFO - Starting client for ID: 4160614447
+2025-11-02 19:27:44,863 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 19:27:44,865 - INFO - Final token constructed successfully.
+2025-11-02 19:27:45,059 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 19:28:02,040 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 19:28:02,041 - WARNING - Initiating bot restart...
+2025-11-02 19:28:02,065 - ERROR - Error during pre-restart cleanup: (pid=9620)
+2025-11-02 19:28:04,518 - INFO - Main execution block started.
+2025-11-02 19:28:04,519 - INFO - Starting client for ID: 4160614447
+2025-11-02 19:28:08,316 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 19:28:08,318 - INFO - Final token constructed successfully.
+2025-11-02 19:28:08,554 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 19:32:17,142 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 19:32:17,146 - WARNING - Initiating bot restart...
+2025-11-02 19:32:17,176 - ERROR - Error during pre-restart cleanup: (pid=9620)
+2025-11-02 19:32:19,222 - INFO - Main execution block started.
+2025-11-02 19:32:19,223 - INFO - Starting client for ID: 4160614447
+2025-11-02 19:32:43,589 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 19:32:43,590 - INFO - Final token constructed successfully.
+2025-11-02 19:32:46,865 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 19:33:07,873 - CRITICAL - A critical unhandled error occurred in the main connect loop: 'int' object is not subscriptable. The bot will restart.
+2025-11-02 19:33:07,874 - WARNING - Initiating bot restart...
+2025-11-02 19:33:07,885 - ERROR - Error during pre-restart cleanup: (pid=9620)
+2025-11-02 19:33:09,361 - INFO - Main execution block started.
+2025-11-02 19:33:09,362 - INFO - Starting client for ID: 4160614447
+2025-11-02 19:33:20,152 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 19:33:20,153 - INFO - Final token constructed successfully.
+2025-11-02 19:33:20,530 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 19:37:04,635 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 19:37:04,635 - WARNING - Initiating bot restart...
+2025-11-02 19:37:04,652 - ERROR - Error during pre-restart cleanup: (pid=9620)
+2025-11-02 19:37:06,681 - INFO - Main execution block started.
+2025-11-02 19:37:06,682 - INFO - Starting client for ID: 4160614447
+2025-11-02 19:37:13,671 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 19:37:13,672 - INFO - Final token constructed successfully.
+2025-11-02 19:37:14,748 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 19:39:17,557 - CRITICAL - A critical unhandled error occurred in the main connect loop: 'int' object is not subscriptable. The bot will restart.
+2025-11-02 19:39:17,558 - WARNING - Initiating bot restart...
+2025-11-02 19:39:17,575 - ERROR - Error during pre-restart cleanup: (pid=9620)
+2025-11-02 19:39:19,002 - INFO - Main execution block started.
+2025-11-02 19:39:19,002 - INFO - Starting client for ID: 4160614447
+2025-11-02 19:39:23,183 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 19:39:23,184 - INFO - Final token constructed successfully.
+2025-11-02 19:39:23,370 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 19:39:38,264 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-02 19:42:45,658 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 19:42:45,671 - WARNING - Initiating bot restart...
+2025-11-02 19:42:45,694 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 19:42:45,696 - WARNING - Initiating bot restart...
+2025-11-02 19:42:45,709 - ERROR - Error during pre-restart cleanup: (pid=9620)
+2025-11-02 19:42:45,710 - ERROR - Error during pre-restart cleanup: (pid=9620)
+2025-11-02 19:42:47,708 - INFO - Main execution block started.
+2025-11-02 19:42:47,709 - INFO - Starting client for ID: 4160614447
+2025-11-02 19:42:52,877 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 19:42:52,878 - INFO - Final token constructed successfully.
+2025-11-02 19:42:53,061 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 19:45:53,320 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 19:45:53,321 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 19:45:53,322 - WARNING - Initiating bot restart...
+2025-11-02 19:45:53,325 - WARNING - Initiating bot restart...
+2025-11-02 19:45:53,335 - ERROR - Error during pre-restart cleanup: (pid=9620)
+2025-11-02 19:45:54,319 - INFO - Main execution block started.
+2025-11-02 19:45:54,319 - INFO - Starting client for ID: 4160614447
+2025-11-02 19:45:58,481 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 19:45:58,482 - INFO - Final token constructed successfully.
+2025-11-02 19:45:58,666 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 19:48:58,709 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 19:48:58,719 - WARNING - Initiating bot restart...
+2025-11-02 19:48:58,738 - ERROR - Error during pre-restart cleanup: (pid=9620)
+2025-11-02 19:49:00,339 - INFO - Main execution block started.
+2025-11-02 19:49:00,339 - INFO - Starting client for ID: 4160614447
+2025-11-02 19:49:05,157 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 19:49:05,158 - INFO - Final token constructed successfully.
+2025-11-02 19:49:05,374 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 19:52:05,451 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 19:52:05,453 - WARNING - Initiating bot restart...
+2025-11-02 19:52:05,484 - ERROR - Error during pre-restart cleanup: (pid=9620)
+2025-11-02 19:52:05,486 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 19:52:06,949 - INFO - Main execution block started.
+2025-11-02 19:52:06,949 - INFO - Starting client for ID: 4160614447
+2025-11-02 19:58:11,814 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 19:58:11,815 - INFO - Final token constructed successfully.
+2025-11-02 19:58:12,041 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 20:01:12,273 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 20:01:12,275 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 20:01:12,278 - WARNING - Initiating bot restart...
+2025-11-02 20:01:12,279 - WARNING - Initiating bot restart...
+2025-11-02 20:01:12,294 - ERROR - Error during pre-restart cleanup: (pid=9620)
+2025-11-02 20:01:13,927 - INFO - Main execution block started.
+2025-11-02 20:01:13,927 - INFO - Starting client for ID: 4160614447
+2025-11-02 20:01:19,615 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 20:01:19,616 - INFO - Final token constructed successfully.
+2025-11-02 20:01:19,813 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 20:04:19,951 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 20:04:19,954 - WARNING - Initiating bot restart...
+2025-11-02 20:04:19,949 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 20:04:19,959 - WARNING - Initiating bot restart...
+2025-11-02 20:04:19,968 - ERROR - Error during pre-restart cleanup: (pid=9620)
+2025-11-02 20:04:21,666 - INFO - Main execution block started.
+2025-11-02 20:04:21,667 - INFO - Starting client for ID: 4160614447
+2025-11-02 20:04:27,774 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 20:04:27,775 - INFO - Final token constructed successfully.
+2025-11-02 20:04:28,004 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 20:07:28,321 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 20:07:28,322 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 20:07:28,324 - WARNING - Initiating bot restart...
+2025-11-02 20:07:28,326 - WARNING - Initiating bot restart...
+2025-11-02 20:07:28,337 - ERROR - Error during pre-restart cleanup: (pid=9620)
+2025-11-02 20:07:29,683 - INFO - Main execution block started.
+2025-11-02 20:07:29,684 - INFO - Starting client for ID: 4160614447
+2025-11-02 20:07:33,397 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 20:07:33,397 - INFO - Final token constructed successfully.
+2025-11-02 20:07:33,688 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 20:10:33,776 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 20:10:33,779 - WARNING - Initiating bot restart...
+2025-11-02 20:10:33,805 - ERROR - Error during pre-restart cleanup: (pid=9620)
+2025-11-02 20:10:37,086 - INFO - Main execution block started.
+2025-11-02 20:10:37,086 - INFO - Starting client for ID: 4160614447
+2025-11-02 20:10:44,344 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 20:10:44,345 - INFO - Final token constructed successfully.
+2025-11-02 20:10:44,588 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 20:13:44,872 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 20:13:44,875 - WARNING - Initiating bot restart...
+2025-11-02 20:13:44,873 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 20:13:44,880 - WARNING - Initiating bot restart...
+2025-11-02 20:13:44,890 - ERROR - Error during pre-restart cleanup: (pid=9620)
+2025-11-02 20:13:46,421 - INFO - Main execution block started.
+2025-11-02 20:13:46,421 - INFO - Starting client for ID: 4160614447
+2025-11-02 20:13:51,315 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 20:13:51,316 - INFO - Final token constructed successfully.
+2025-11-02 20:13:51,514 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 20:16:51,616 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 20:16:51,627 - WARNING - Initiating bot restart...
+2025-11-02 20:16:51,647 - ERROR - Error during pre-restart cleanup: (pid=9620)
+2025-11-02 20:16:52,972 - INFO - Main execution block started.
+2025-11-02 20:16:52,973 - INFO - Starting client for ID: 4160614447
+2025-11-02 20:16:56,703 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 20:16:56,704 - INFO - Final token constructed successfully.
+2025-11-02 20:16:56,909 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 20:22:11,877 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 20:22:11,880 - WARNING - Initiating bot restart...
+2025-11-02 20:22:11,899 - ERROR - Error during pre-restart cleanup: (pid=9620)
+2025-11-02 20:26:13,249 - INFO - Main execution block started.
+2025-11-02 20:26:13,251 - INFO - Starting client for ID: 4160614447
+2025-11-02 20:26:17,812 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 20:26:17,813 - INFO - Final token constructed successfully.
+2025-11-02 20:26:18,034 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 20:29:18,237 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 20:29:18,237 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 20:29:18,240 - WARNING - Initiating bot restart...
+2025-11-02 20:29:18,241 - WARNING - Initiating bot restart...
+2025-11-02 20:29:18,252 - ERROR - Error during pre-restart cleanup: (pid=9620)
+2025-11-02 20:31:44,931 - INFO - Main execution block started.
+2025-11-02 20:31:44,932 - INFO - Starting client for ID: 4160614447
+2025-11-02 20:31:49,572 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 20:31:49,573 - INFO - Final token constructed successfully.
+2025-11-02 20:31:49,780 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 20:34:49,804 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 20:34:49,805 - WARNING - Initiating bot restart...
+2025-11-02 20:34:49,823 - ERROR - Error during pre-restart cleanup: (pid=9620)
+2025-11-02 20:34:50,798 - INFO - Main execution block started.
+2025-11-02 20:34:50,798 - INFO - Starting client for ID: 4160614447
+2025-11-02 20:34:55,426 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 20:34:55,427 - INFO - Final token constructed successfully.
+2025-11-02 20:34:55,644 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 20:37:55,929 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 20:37:55,929 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 20:37:55,930 - WARNING - Initiating bot restart...
+2025-11-02 20:37:55,931 - WARNING - Initiating bot restart...
+2025-11-02 20:37:55,941 - ERROR - Error during pre-restart cleanup: (pid=9620)
+2025-11-02 20:37:56,916 - INFO - Main execution block started.
+2025-11-02 20:37:56,917 - INFO - Starting client for ID: 4160614447
+2025-11-02 20:38:02,927 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 20:38:02,928 - INFO - Final token constructed successfully.
+2025-11-02 20:38:03,129 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 20:40:33,036 - CRITICAL - A critical unhandled error occurred in the main connect loop: 'int' object is not subscriptable. The bot will restart.
+2025-11-02 20:40:33,055 - WARNING - Initiating bot restart...
+2025-11-02 20:40:33,064 - ERROR - Error during pre-restart cleanup: (pid=9620)
+2025-11-02 20:40:34,462 - INFO - Main execution block started.
+2025-11-02 20:40:34,462 - INFO - Starting client for ID: 4160614447
+2025-11-02 20:40:41,555 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 20:40:41,556 - INFO - Final token constructed successfully.
+2025-11-02 20:40:41,757 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 20:46:11,864 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 20:46:11,864 - WARNING - Initiating bot restart...
+2025-11-02 20:46:11,875 - ERROR - Error during pre-restart cleanup: (pid=9620)
+2025-11-02 20:46:13,002 - INFO - Main execution block started.
+2025-11-02 20:46:13,003 - INFO - Starting client for ID: 4160614447
+2025-11-02 20:46:38,367 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 20:46:38,368 - INFO - Final token constructed successfully.
+2025-11-02 20:46:38,629 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-02 20:49:38,972 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-02 20:49:38,972 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-02 20:49:38,980 - WARNING - Initiating bot restart...
+2025-11-02 20:49:38,980 - WARNING - Initiating bot restart...
+2025-11-02 20:49:38,984 - ERROR - Error during pre-restart cleanup: (pid=9620)
+2025-11-02 20:49:40,664 - INFO - Main execution block started.
+2025-11-02 20:49:40,664 - INFO - Starting client for ID: 4160614447
+2025-11-02 20:49:46,035 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-02 20:49:46,036 - INFO - Final token constructed successfully.
+2025-11-02 20:49:46,241 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-03 17:57:34,044 - INFO - Main execution block started.
+2025-11-03 17:57:34,046 - INFO - Starting client for ID: 4160614447
+2025-11-03 17:58:14,514 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-03 17:58:14,518 - INFO - Final token constructed successfully.
+2025-11-03 17:58:14,801 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-03 17:59:28,547 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:03:02,641 - INFO - Main execution block started.
+2025-11-03 18:03:02,645 - INFO - Starting client for ID: 4160614447
+2025-11-03 18:03:07,480 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-03 18:03:07,482 - INFO - Final token constructed successfully.
+2025-11-03 18:03:07,694 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-03 18:04:16,111 - INFO - Main execution block started.
+2025-11-03 18:04:16,113 - INFO - Starting client for ID: 4160614447
+2025-11-03 18:04:20,549 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-03 18:04:20,550 - INFO - Final token constructed successfully.
+2025-11-03 18:04:20,795 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-03 18:04:39,687 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:04:51,651 - INFO - Resetting bot state to solo before /sm spam.
+2025-11-03 18:05:48,974 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:05:49,785 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:05:50,269 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:05:50,417 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:05:50,640 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:05:51,989 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:05:52,526 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:05:52,940 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:05:53,238 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:05:53,340 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:05:53,610 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:05:53,753 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:05:53,899 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:05:54,295 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:05:54,715 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:05:54,999 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:06:01,176 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:06:01,515 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:06:02,028 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:06:02,729 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:06:03,763 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:06:05,761 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:06:06,968 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:06:07,095 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:06:07,416 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:06:07,615 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:06:08,748 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:06:09,456 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:06:10,232 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:06:11,415 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:06:18,224 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:06:20,357 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:06:21,455 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:06:22,160 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:06:22,346 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:06:22,686 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:06:23,122 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:06:24,450 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-03 18:06:24,455 - WARNING - Initiating bot restart...
+2025-11-03 18:06:24,488 - ERROR - Error during pre-restart cleanup: (pid=22727)
+2025-11-03 18:06:49,663 - INFO - Main execution block started.
+2025-11-03 18:06:49,668 - INFO - Starting client for ID: 4160614447
+2025-11-03 18:06:55,038 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-03 18:06:55,041 - INFO - Final token constructed successfully.
+2025-11-03 18:06:55,361 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-03 18:07:41,832 - INFO - Main execution block started.
+2025-11-03 18:07:41,834 - INFO - Starting client for ID: 4160614447
+2025-11-03 18:07:46,350 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-03 18:07:46,351 - INFO - Final token constructed successfully.
+2025-11-03 18:07:46,639 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-03 18:08:16,880 - CRITICAL - A critical unhandled error occurred in the main connect loop: 'int' object is not subscriptable. The bot will restart.
+2025-11-03 18:08:16,881 - WARNING - Initiating bot restart...
+2025-11-03 18:08:16,884 - ERROR - Error during pre-restart cleanup: (pid=23269)
+2025-11-03 18:09:16,876 - INFO - Main execution block started.
+2025-11-03 18:09:16,880 - INFO - Starting client for ID: 4160614447
+2025-11-03 18:09:21,449 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-03 18:09:21,450 - INFO - Final token constructed successfully.
+2025-11-03 18:09:21,657 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-03 18:09:36,936 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:09:37,309 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:09:37,573 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:09:37,943 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:09:38,143 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:09:38,569 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:09:39,011 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:09:39,201 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:09:39,796 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:09:40,319 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:09:40,730 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:09:41,098 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:09:41,764 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:09:42,296 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:09:42,710 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:09:44,341 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:09:44,473 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:09:44,840 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:09:45,072 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:09:45,704 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:09:46,257 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:09:47,235 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:09:47,586 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:09:47,993 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:09:48,342 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:09:48,682 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:09:49,134 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:09:49,635 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:10:56,146 - INFO - Main execution block started.
+2025-11-03 18:10:56,148 - INFO - Starting client for ID: 4160614447
+2025-11-03 18:11:00,371 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-03 18:11:00,372 - INFO - Final token constructed successfully.
+2025-11-03 18:11:00,636 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-03 18:11:54,708 - INFO - Main execution block started.
+2025-11-03 18:11:54,709 - INFO - Starting client for ID: 4160614447
+2025-11-03 18:12:00,857 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-03 18:12:00,858 - INFO - Final token constructed successfully.
+2025-11-03 18:12:01,139 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-03 18:12:19,415 - CRITICAL - A critical unhandled error occurred in the main connect loop: 'int' object is not subscriptable. The bot will restart.
+2025-11-03 18:12:19,416 - WARNING - Initiating bot restart...
+2025-11-03 18:12:19,421 - ERROR - Error during pre-restart cleanup: (pid=24697)
+2025-11-03 18:12:37,423 - INFO - Main execution block started.
+2025-11-03 18:12:37,428 - INFO - Starting client for ID: 4160614447
+2025-11-03 18:12:43,419 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-03 18:12:43,420 - INFO - Final token constructed successfully.
+2025-11-03 18:12:43,842 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-03 18:13:17,309 - CRITICAL - A critical unhandled error occurred in the main connect loop: 'int' object is not subscriptable. The bot will restart.
+2025-11-03 18:13:17,309 - WARNING - Initiating bot restart...
+2025-11-03 18:13:17,314 - ERROR - Error during pre-restart cleanup: (pid=24852)
+2025-11-03 18:14:10,072 - INFO - Main execution block started.
+2025-11-03 18:14:10,075 - INFO - Starting client for ID: 4160614447
+2025-11-03 18:14:15,647 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-03 18:14:15,648 - INFO - Final token constructed successfully.
+2025-11-03 18:14:15,883 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-03 18:17:10,757 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:11,940 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:12,346 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:12,455 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:12,989 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:13,193 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:13,581 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:14,072 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:14,539 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:14,689 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:15,142 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:15,294 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:15,991 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:16,169 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:16,653 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:16,798 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:18,380 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:18,952 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:19,535 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:20,073 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:21,565 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:21,743 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:22,233 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:22,355 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:22,762 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:22,863 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:23,417 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:23,531 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:23,918 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:24,055 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:24,611 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:24,756 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:25,144 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:25,251 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:25,709 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:25,830 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:26,243 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:26,691 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:26,827 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:27,314 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:27,488 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:27,952 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:28,105 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:28,484 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:29,027 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:29,193 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:29,612 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:30,228 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:30,406 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:30,891 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:31,282 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:32,704 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:33,539 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:34,335 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:35,240 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:35,573 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:36,229 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:38,471 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:38,796 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:38,896 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:39,278 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:39,814 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:39,989 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:40,383 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:40,753 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:40,882 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:41,256 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:43,377 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:43,687 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:44,425 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:45,317 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:45,640 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:46,472 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:47,291 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:47,894 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:47,978 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:48,333 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:48,910 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:49,517 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:50,455 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:50,885 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:51,848 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:53,259 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:53,938 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:54,468 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:55,042 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:55,166 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:55,743 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:56,219 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:56,977 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 18:18:57,033 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 22:26:31,752 - INFO - Main execution block started.
+2025-11-03 22:26:31,754 - INFO - Starting client for ID: 4160614447
+2025-11-03 22:26:35,473 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-03 22:26:35,475 - INFO - Final token constructed successfully.
+2025-11-03 22:26:35,631 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-03 22:29:50,348 - INFO - Main execution block started.
+2025-11-03 22:29:50,356 - INFO - Starting client for ID: 4160614447
+2025-11-03 22:29:53,934 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-03 22:29:53,937 - INFO - Final token constructed successfully.
+2025-11-03 22:29:54,231 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-03 22:30:47,656 - INFO - Main execution block started.
+2025-11-03 22:30:47,658 - INFO - Starting client for ID: 4160614447
+2025-11-03 22:30:51,409 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-03 22:30:51,411 - INFO - Final token constructed successfully.
+2025-11-03 22:30:51,639 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-03 22:32:17,484 - INFO - Main execution block started.
+2025-11-03 22:32:17,487 - INFO - Starting client for ID: 4160614447
+2025-11-03 22:32:20,680 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-03 22:32:20,681 - INFO - Final token constructed successfully.
+2025-11-03 22:32:20,847 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-03 22:32:39,132 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 22:36:35,481 - INFO - Main execution block started.
+2025-11-03 22:36:35,484 - INFO - Starting client for ID: 4160614447
+2025-11-03 22:36:39,109 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-03 22:36:39,110 - INFO - Final token constructed successfully.
+2025-11-03 22:36:39,305 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-03 22:36:54,493 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 22:38:00,685 - INFO - Main execution block started.
+2025-11-03 22:38:00,686 - INFO - Starting client for ID: 4160614447
+2025-11-03 22:38:03,857 - INFO - Token decoded and processed. Account ID: 13271190337
+2025-11-03 22:38:03,861 - INFO - Final token constructed successfully.
+2025-11-03 22:38:04,117 - INFO -  Con port 39699 Host 98.98.162.78 
+2025-11-03 22:38:19,069 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 22:38:36,996 - INFO - Resetting bot state to solo before /sm spam.
+2025-11-03 22:43:31,142 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-03 22:43:31,144 - WARNING - Initiating bot restart...
+2025-11-03 22:43:31,160 - ERROR - Error during pre-restart cleanup: (pid=14739)
+2025-11-03 22:43:33,852 - INFO - Main execution block started.
+2025-11-03 22:43:33,852 - INFO - Starting client for ID: 4160614447
+2025-11-03 23:06:08,390 - INFO - Main execution block started.
+2025-11-03 23:06:08,391 - INFO - Starting client for ID: 4052641394
+2025-11-03 23:06:11,945 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-03 23:06:11,949 - INFO - Final token constructed successfully.
+2025-11-03 23:06:12,183 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-03 23:06:38,376 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 23:07:12,762 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 23:08:24,047 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 23:08:46,196 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 23:12:01,672 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-03 23:17:41,751 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-03 23:17:41,754 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-03 23:17:41,758 - WARNING - Initiating bot restart...
+2025-11-03 23:17:41,760 - WARNING - Initiating bot restart...
+2025-11-03 23:17:41,784 - ERROR - Error during pre-restart cleanup: (pid=30503)
+2025-11-03 23:17:44,036 - INFO - Main execution block started.
+2025-11-03 23:17:44,036 - INFO - Starting client for ID: 4052641394
+2025-11-03 23:18:11,202 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-03 23:18:11,203 - INFO - Final token constructed successfully.
+2025-11-03 23:18:17,855 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-03 23:21:20,210 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-03 23:21:20,214 - WARNING - Initiating bot restart...
+2025-11-03 23:21:20,246 - ERROR - Error during pre-restart cleanup: (pid=30503)
+2025-11-03 23:21:22,499 - INFO - Main execution block started.
+2025-11-03 23:21:22,499 - INFO - Starting client for ID: 4052641394
+2025-11-03 23:21:54,429 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-03 23:21:54,430 - INFO - Final token constructed successfully.
+2025-11-03 23:21:57,749 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-03 23:24:57,745 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-03 23:24:57,747 - WARNING - Initiating bot restart...
+2025-11-03 23:24:57,781 - ERROR - Error during pre-restart cleanup: (pid=30503)
+2025-11-03 23:24:59,192 - INFO - Main execution block started.
+2025-11-03 23:24:59,192 - INFO - Starting client for ID: 4052641394
+2025-11-03 23:25:29,255 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-03 23:25:29,256 - INFO - Final token constructed successfully.
+2025-11-03 23:25:33,444 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-03 23:25:40,983 - CRITICAL - A critical unhandled error occurred in the main connect loop: [Errno 103] Software caused connection abort. The bot will restart.
+2025-11-03 23:25:40,984 - CRITICAL - Unhandled error in sockf1 loop: [Errno 103] Software caused connection abort. Restarting bot.
+2025-11-03 23:25:40,985 - WARNING - Initiating bot restart...
+2025-11-03 23:25:40,987 - WARNING - Initiating bot restart...
+2025-11-03 23:25:40,999 - ERROR - Error during pre-restart cleanup: (pid=30503)
+2025-11-03 23:25:42,893 - INFO - Main execution block started.
+2025-11-03 23:25:42,894 - INFO - Starting client for ID: 4052641394
+2025-11-03 23:25:42,904 - CRITICAL - A critical error occurred in the main execution block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78a2876900>: Failed to establish a new connection: [Errno 7] No address associated with hostname'))
+2025-11-03 23:25:42,905 - INFO - Restarting the entire application in 5 seconds...
+2025-11-03 23:25:47,906 - WARNING - Initiating bot restart...
+2025-11-03 23:25:49,298 - INFO - Main execution block started.
+2025-11-03 23:25:49,299 - INFO - Starting client for ID: 4052641394
+2025-11-03 23:25:49,310 - CRITICAL - A critical error occurred in the main execution block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x794cc3e900>: Failed to establish a new connection: [Errno 7] No address associated with hostname'))
+2025-11-03 23:25:49,310 - INFO - Restarting the entire application in 5 seconds...
+2025-11-03 23:25:54,312 - WARNING - Initiating bot restart...
+2025-11-03 23:25:55,703 - INFO - Main execution block started.
+2025-11-03 23:25:55,704 - INFO - Starting client for ID: 4052641394
+2025-11-03 23:25:55,715 - CRITICAL - A critical error occurred in the main execution block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x79cf77a900>: Failed to establish a new connection: [Errno 7] No address associated with hostname'))
+2025-11-03 23:25:55,715 - INFO - Restarting the entire application in 5 seconds...
+2025-11-03 23:26:00,717 - WARNING - Initiating bot restart...
+2025-11-03 23:26:02,095 - INFO - Main execution block started.
+2025-11-03 23:26:02,096 - INFO - Starting client for ID: 4052641394
+2025-11-03 23:26:02,107 - CRITICAL - A critical error occurred in the main execution block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70456a6900>: Failed to establish a new connection: [Errno 7] No address associated with hostname'))
+2025-11-03 23:26:02,107 - INFO - Restarting the entire application in 5 seconds...
+2025-11-03 23:26:07,108 - WARNING - Initiating bot restart...
+2025-11-03 23:26:08,724 - INFO - Main execution block started.
+2025-11-03 23:26:08,725 - INFO - Starting client for ID: 4052641394
+2025-11-03 23:26:08,735 - CRITICAL - A critical error occurred in the main execution block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x765f872900>: Failed to establish a new connection: [Errno 7] No address associated with hostname'))
+2025-11-03 23:26:08,736 - INFO - Restarting the entire application in 5 seconds...
+2025-11-03 23:26:13,737 - WARNING - Initiating bot restart...
+2025-11-03 23:26:15,406 - INFO - Main execution block started.
+2025-11-03 23:26:15,406 - INFO - Starting client for ID: 4052641394
+2025-11-03 23:26:25,435 - CRITICAL - A critical error occurred in the main execution block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x77ad2f6900>: Failed to establish a new connection: [Errno 7] No address associated with hostname'))
+2025-11-03 23:26:25,436 - INFO - Restarting the entire application in 5 seconds...
+2025-11-03 23:26:30,438 - WARNING - Initiating bot restart...
+2025-11-03 23:26:31,854 - INFO - Main execution block started.
+2025-11-03 23:26:31,855 - INFO - Starting client for ID: 4052641394
+2025-11-03 23:26:41,880 - CRITICAL - A critical error occurred in the main execution block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x714e242900>: Failed to establish a new connection: [Errno 7] No address associated with hostname'))
+2025-11-03 23:26:41,881 - INFO - Restarting the entire application in 5 seconds...
+2025-11-03 23:26:46,882 - WARNING - Initiating bot restart...
+2025-11-03 23:26:48,271 - INFO - Main execution block started.
+2025-11-03 23:26:48,272 - INFO - Starting client for ID: 4052641394
+2025-11-03 23:26:58,297 - CRITICAL - A critical error occurred in the main execution block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c5c3a900>: Failed to establish a new connection: [Errno 7] No address associated with hostname'))
+2025-11-03 23:26:58,297 - INFO - Restarting the entire application in 5 seconds...
+2025-11-03 23:27:03,299 - WARNING - Initiating bot restart...
+2025-11-03 23:27:04,704 - INFO - Main execution block started.
+2025-11-03 23:27:04,704 - INFO - Starting client for ID: 4052641394
+2025-11-03 23:27:27,780 - CRITICAL - A critical error occurred in the main execution block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7938e3a900>: Failed to establish a new connection: [Errno 7] No address associated with hostname'))
+2025-11-03 23:27:27,781 - INFO - Restarting the entire application in 5 seconds...
+2025-11-03 23:27:50,488 - WARNING - Initiating bot restart...
+2025-11-03 23:27:53,738 - INFO - Main execution block started.
+2025-11-03 23:27:53,739 - INFO - Starting client for ID: 4052641394
+2025-11-03 23:28:03,794 - CRITICAL - A critical error occurred in the main execution block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73dea76900>: Failed to establish a new connection: [Errno 7] No address associated with hostname'))
+2025-11-03 23:28:03,795 - INFO - Restarting the entire application in 5 seconds...
+2025-11-03 23:28:08,796 - WARNING - Initiating bot restart...
+2025-11-03 23:28:10,183 - INFO - Main execution block started.
+2025-11-03 23:28:10,183 - INFO - Starting client for ID: 4052641394
+2025-11-03 23:28:20,210 - CRITICAL - A critical error occurred in the main execution block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x6db6cb2900>: Failed to establish a new connection: [Errno 7] No address associated with hostname'))
+2025-11-03 23:28:20,211 - INFO - Restarting the entire application in 5 seconds...
+2025-11-03 23:28:25,212 - WARNING - Initiating bot restart...
+2025-11-03 23:28:26,940 - INFO - Main execution block started.
+2025-11-03 23:28:26,940 - INFO - Starting client for ID: 4052641394
+2025-11-03 23:28:53,346 - CRITICAL - A critical error occurred in the main execution block: HTTPSConnectionPool(host='loginbp.ggblueshark.com', port=443): Max retries exceeded with url: /MajorLogin (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x6f142211d0>: Failed to establish a new connection: [Errno 7] No address associated with hostname'))
+2025-11-03 23:28:53,346 - INFO - Restarting the entire application in 5 seconds...
+2025-11-03 23:30:56,963 - WARNING - Initiating bot restart...
+2025-11-03 23:30:59,715 - INFO - Main execution block started.
+2025-11-03 23:30:59,715 - INFO - Starting client for ID: 4052641394
+2025-11-03 23:31:09,743 - CRITICAL - A critical error occurred in the main execution block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x6d3a83a900>: Failed to establish a new connection: [Errno 7] No address associated with hostname'))
+2025-11-03 23:31:09,744 - INFO - Restarting the entire application in 5 seconds...
+2025-11-03 23:31:14,746 - WARNING - Initiating bot restart...
+2025-11-03 23:31:15,989 - INFO - Main execution block started.
+2025-11-03 23:31:15,990 - INFO - Starting client for ID: 4052641394
+2025-11-03 23:32:11,653 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-03 23:32:11,654 - INFO - Final token constructed successfully.
+2025-11-03 23:32:16,984 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-03 23:35:17,031 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-03 23:35:17,036 - WARNING - Initiating bot restart...
+2025-11-03 23:35:17,074 - ERROR - Error during pre-restart cleanup: (pid=30503)
+2025-11-03 23:35:19,134 - INFO - Main execution block started.
+2025-11-03 23:35:19,134 - INFO - Starting client for ID: 4052641394
+2025-11-03 23:35:23,470 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-03 23:35:23,471 - INFO - Final token constructed successfully.
+2025-11-03 23:35:23,719 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-03 23:38:23,732 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-03 23:38:23,744 - WARNING - Initiating bot restart...
+2025-11-03 23:38:23,756 - ERROR - Error during pre-restart cleanup: (pid=30503)
+2025-11-03 23:38:25,714 - INFO - Main execution block started.
+2025-11-03 23:38:25,715 - INFO - Starting client for ID: 4052641394
+2025-11-03 23:40:10,101 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-03 23:40:10,102 - INFO - Final token constructed successfully.
+2025-11-03 23:40:10,270 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-03 23:43:10,300 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-03 23:43:10,301 - WARNING - Initiating bot restart...
+2025-11-03 23:43:10,317 - ERROR - Error during pre-restart cleanup: (pid=30503)
+2025-11-03 23:43:12,149 - INFO - Main execution block started.
+2025-11-03 23:43:12,150 - INFO - Starting client for ID: 4052641394
+2025-11-03 23:43:15,749 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-03 23:43:15,750 - INFO - Final token constructed successfully.
+2025-11-03 23:43:15,986 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 09:26:04,339 - INFO - Main execution block started.
+2025-11-04 09:26:04,341 - INFO - Starting client for ID: 4052641394
+2025-11-04 09:26:08,510 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 09:26:08,511 - INFO - Final token constructed successfully.
+2025-11-04 09:26:08,710 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 09:28:01,133 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 09:29:03,522 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 09:32:35,046 - INFO - Main execution block started.
+2025-11-04 09:32:35,049 - INFO - Starting client for ID: 4052641394
+2025-11-04 09:32:38,862 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 09:32:38,863 - INFO - Final token constructed successfully.
+2025-11-04 09:32:39,093 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 09:32:55,320 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 09:33:17,633 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 09:37:10,811 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 09:42:35,449 - WARNING - Scheduled 10-minute restart from connect loop.
+2025-11-04 09:42:35,451 - WARNING - Initiating bot restart...
+2025-11-04 09:42:35,457 - ERROR - Error during pre-restart cleanup: (pid=14216)
+2025-11-04 09:42:37,613 - INFO - Main execution block started.
+2025-11-04 09:42:37,614 - INFO - Starting client for ID: 4052641394
+2025-11-04 09:42:41,347 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 09:42:41,347 - INFO - Final token constructed successfully.
+2025-11-04 09:42:41,489 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 09:43:09,356 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 10:02:46,741 - INFO - Main execution block started.
+2025-11-04 10:02:46,744 - INFO - Starting client for ID: 4052641394
+2025-11-04 10:02:50,546 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 10:02:50,547 - INFO - Final token constructed successfully.
+2025-11-04 10:02:50,736 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 10:03:07,066 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 10:03:40,417 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 10:11:29,775 - INFO - Main execution block started.
+2025-11-04 10:11:29,777 - INFO - Starting client for ID: 4052641394
+2025-11-04 10:11:34,177 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 10:11:34,178 - INFO - Final token constructed successfully.
+2025-11-04 10:11:34,321 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 10:11:47,156 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 10:12:01,685 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 10:12:18,089 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 10:18:37,187 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 10:21:37,384 - WARNING - Scheduled 10-minute restart from sockf1.
+2025-11-04 10:21:37,398 - WARNING - Initiating bot restart...
+2025-11-04 10:21:37,411 - ERROR - Error during pre-restart cleanup: (pid=22258)
+2025-11-04 10:21:47,220 - INFO - Main execution block started.
+2025-11-04 10:21:47,221 - INFO - Starting client for ID: 4052641394
+2025-11-04 10:21:51,478 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 10:21:51,479 - INFO - Final token constructed successfully.
+2025-11-04 10:21:51,624 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 10:22:04,452 - INFO - Resetting bot state to solo before /sm spam.
+2025-11-04 10:22:41,522 - INFO - Main execution block started.
+2025-11-04 10:22:41,523 - INFO - Starting client for ID: 4052641394
+2025-11-04 10:22:44,611 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 10:22:44,612 - INFO - Final token constructed successfully.
+2025-11-04 10:22:44,762 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 10:22:56,542 - INFO - Resetting bot state to solo before /sm spam.
+2025-11-04 10:23:28,753 - WARNING - Warning: '1' key is missing in parsed_data, skipping...
+2025-11-04 10:23:40,455 - INFO - Resetting bot state to solo before /sm spam.
+2025-11-04 10:24:12,978 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 10:25:12,139 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 10:26:08,719 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 10:26:27,127 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 10:28:33,962 - INFO - Main execution block started.
+2025-11-04 10:28:33,963 - INFO - Starting client for ID: 4052641394
+2025-11-04 10:28:37,678 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 10:28:37,679 - INFO - Final token constructed successfully.
+2025-11-04 10:28:37,886 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 10:29:36,826 - INFO - Resetting bot state to solo before /sm spam.
+2025-11-04 10:30:09,037 - INFO - Resetting bot state to solo before /sm spam.
+2025-11-04 10:31:08,076 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 10:37:18,133 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 10:38:51,950 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-04 10:38:51,954 - WARNING - Initiating bot restart...
+2025-11-04 10:38:51,975 - ERROR - Error during pre-restart cleanup: (pid=24886)
+2025-11-04 10:38:54,139 - INFO - Main execution block started.
+2025-11-04 10:38:54,140 - INFO - Starting client for ID: 4052641394
+2025-11-04 10:38:59,739 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 10:38:59,740 - INFO - Final token constructed successfully.
+2025-11-04 10:38:59,974 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 10:41:59,915 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-04 10:41:59,916 - WARNING - Initiating bot restart...
+2025-11-04 10:41:59,935 - ERROR - Error during pre-restart cleanup: (pid=24886)
+2025-11-04 10:42:01,391 - INFO - Main execution block started.
+2025-11-04 10:42:01,392 - INFO - Starting client for ID: 4052641394
+2025-11-04 10:42:05,651 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 10:42:05,651 - INFO - Final token constructed successfully.
+2025-11-04 10:42:05,860 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 11:00:03,614 - INFO - Main execution block started.
+2025-11-04 11:00:03,615 - INFO - Starting client for ID: 4052641394
+2025-11-04 11:00:07,325 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 11:00:07,326 - INFO - Final token constructed successfully.
+2025-11-04 11:00:07,511 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 11:09:17,721 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 11:09:44,680 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 11:10:03,710 - WARNING - Scheduled 10-minute restart from sockf1.
+2025-11-04 11:10:03,711 - WARNING - Initiating bot restart...
+2025-11-04 11:10:03,734 - ERROR - Error during pre-restart cleanup: (pid=592)
+2025-11-04 11:10:05,862 - INFO - Main execution block started.
+2025-11-04 11:10:05,862 - INFO - Starting client for ID: 4052641394
+2025-11-04 11:10:09,538 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 11:10:09,539 - INFO - Final token constructed successfully.
+2025-11-04 11:10:09,716 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 11:11:10,458 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 11:12:27,542 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 11:14:02,803 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 11:15:07,369 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 11:18:46,925 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 11:20:08,743 - WARNING - Scheduled 10-minute restart from connect loop.
+2025-11-04 11:20:08,744 - WARNING - Initiating bot restart...
+2025-11-04 11:20:08,776 - ERROR - Error during pre-restart cleanup: (pid=592)
+2025-11-04 11:21:51,125 - INFO - Main execution block started.
+2025-11-04 11:21:51,129 - INFO - Starting client for ID: 4052641394
+2025-11-04 11:21:55,808 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 11:21:55,811 - INFO - Final token constructed successfully.
+2025-11-04 11:21:56,010 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 11:22:39,423 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 11:23:21,246 - CRITICAL - Unhandled error in sockf1 loop: cannot access local variable 'idplayer' where it is not associated with a value. Restarting bot.
+2025-11-04 11:23:21,246 - WARNING - Initiating bot restart...
+2025-11-04 11:23:21,264 - ERROR - Error during pre-restart cleanup: (pid=592)
+2025-11-04 11:23:24,258 - INFO - Main execution block started.
+2025-11-04 11:23:24,259 - INFO - Starting client for ID: 4052641394
+2025-11-04 11:23:28,264 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 11:23:28,266 - INFO - Final token constructed successfully.
+2025-11-04 11:23:28,406 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 11:24:14,424 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 11:33:31,725 - WARNING - Scheduled 10-minute restart from connect loop.
+2025-11-04 11:33:31,728 - WARNING - Initiating bot restart...
+2025-11-04 11:33:31,757 - ERROR - Error during pre-restart cleanup: (pid=592)
+2025-11-04 11:33:37,773 - INFO - Main execution block started.
+2025-11-04 11:33:37,777 - INFO - Starting client for ID: 4052641394
+2025-11-04 11:33:40,880 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 11:33:40,881 - INFO - Final token constructed successfully.
+2025-11-04 11:33:41,030 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 11:34:09,102 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 11:42:21,383 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 11:44:03,907 - WARNING - Scheduled 10-minute restart from sockf1.
+2025-11-04 11:44:03,908 - WARNING - Initiating bot restart...
+2025-11-04 11:44:03,930 - ERROR - Error during pre-restart cleanup: (pid=592)
+2025-11-04 11:44:07,523 - INFO - Main execution block started.
+2025-11-04 11:44:07,524 - INFO - Starting client for ID: 4052641394
+2025-11-04 11:44:11,103 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 11:44:11,104 - INFO - Final token constructed successfully.
+2025-11-04 11:44:11,275 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 11:44:37,015 - INFO - Main execution block started.
+2025-11-04 11:44:37,017 - INFO - Starting client for ID: 4052641394
+2025-11-04 11:44:40,342 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 11:44:40,343 - INFO - Final token constructed successfully.
+2025-11-04 11:44:40,484 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 11:44:51,887 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 11:45:08,879 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 11:51:13,448 - INFO - Main execution block started.
+2025-11-04 11:51:13,452 - INFO - Starting client for ID: 4052641394
+2025-11-04 11:51:16,874 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 11:51:16,875 - INFO - Final token constructed successfully.
+2025-11-04 11:51:17,023 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 11:51:31,764 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 11:51:48,975 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 11:53:43,827 - CRITICAL - Unhandled error in sockf1 loop: cannot access local variable 'idplayer' where it is not associated with a value. Restarting bot.
+2025-11-04 11:53:43,831 - WARNING - Initiating bot restart...
+2025-11-04 11:53:43,837 - ERROR - Error during pre-restart cleanup: (pid=19507)
+2025-11-04 11:53:46,223 - INFO - Main execution block started.
+2025-11-04 11:53:46,224 - INFO - Starting client for ID: 4052641394
+2025-11-04 11:53:49,597 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 11:53:49,598 - INFO - Final token constructed successfully.
+2025-11-04 11:53:49,748 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 11:54:18,934 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 11:58:16,261 - INFO - Main execution block started.
+2025-11-04 11:58:16,267 - INFO - Starting client for ID: 4052641394
+2025-11-04 11:58:19,636 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 11:58:19,638 - INFO - Final token constructed successfully.
+2025-11-04 11:58:19,786 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 11:59:55,485 - INFO - Main execution block started.
+2025-11-04 11:59:55,487 - INFO - Starting client for ID: 4052641394
+2025-11-04 11:59:59,380 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 11:59:59,382 - INFO - Final token constructed successfully.
+2025-11-04 11:59:59,544 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 12:02:09,379 - INFO - Main execution block started.
+2025-11-04 12:02:09,384 - INFO - Starting client for ID: 4052641394
+2025-11-04 12:02:12,982 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 12:02:12,983 - INFO - Final token constructed successfully.
+2025-11-04 12:02:13,132 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 12:02:51,370 - INFO - Main execution block started.
+2025-11-04 12:02:51,372 - INFO - Starting client for ID: 4052641394
+2025-11-04 12:02:55,154 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 12:02:55,156 - INFO - Final token constructed successfully.
+2025-11-04 12:02:55,304 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 12:05:55,975 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 12:06:23,783 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 12:08:43,915 - INFO - Main execution block started.
+2025-11-04 12:08:43,918 - INFO - Starting client for ID: 4052641394
+2025-11-04 12:08:47,470 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 12:08:47,471 - INFO - Final token constructed successfully.
+2025-11-04 12:08:47,624 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 12:11:04,856 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 12:11:50,332 - INFO - Main execution block started.
+2025-11-04 12:11:50,333 - INFO - Starting client for ID: 4052641394
+2025-11-04 12:11:53,936 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 12:11:53,938 - INFO - Final token constructed successfully.
+2025-11-04 12:11:54,085 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 12:12:37,010 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 12:13:00,297 - INFO - Resetting bot state to solo before /sm spam.
+2025-11-04 12:13:32,572 - WARNING - Warning: '1' key is missing in parsed_data, skipping...
+2025-11-04 12:13:32,624 - ERROR - Error in /sm command: '1'. Restarting.
+2025-11-04 12:13:32,678 - WARNING - Initiating bot restart...
+2025-11-04 12:13:32,683 - ERROR - Error during pre-restart cleanup: (pid=25409)
+2025-11-04 12:13:34,744 - INFO - Main execution block started.
+2025-11-04 12:13:34,745 - INFO - Starting client for ID: 4052641394
+2025-11-04 12:13:37,839 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 12:13:37,840 - INFO - Final token constructed successfully.
+2025-11-04 12:13:37,981 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 12:13:42,809 - INFO - Resetting bot state to solo before /sm spam.
+2025-11-04 12:14:15,065 - WARNING - Warning: '1' key is missing in parsed_data, skipping...
+2025-11-04 12:14:15,111 - ERROR - Error in /sm command: '1'. Restarting.
+2025-11-04 12:14:15,154 - WARNING - Initiating bot restart...
+2025-11-04 12:14:15,179 - ERROR - Error during pre-restart cleanup: (pid=25409)
+2025-11-04 12:14:17,616 - INFO - Main execution block started.
+2025-11-04 12:14:17,617 - INFO - Starting client for ID: 4052641394
+2025-11-04 12:14:20,629 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 12:14:20,631 - INFO - Final token constructed successfully.
+2025-11-04 12:14:20,775 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 12:14:29,883 - INFO - Resetting bot state to solo before /sm spam.
+2025-11-04 12:15:02,131 - INFO - Resetting bot state to solo before /sm spam.
+2025-11-04 12:15:34,352 - CRITICAL - A critical unhandled error occurred in the main connect loop: 'int' object is not subscriptable. The bot will restart.
+2025-11-04 12:15:34,352 - WARNING - Initiating bot restart...
+2025-11-04 12:15:34,362 - ERROR - Error during pre-restart cleanup: (pid=25409)
+2025-11-04 12:15:36,073 - INFO - Main execution block started.
+2025-11-04 12:15:36,074 - INFO - Starting client for ID: 4052641394
+2025-11-04 12:15:39,513 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 12:15:39,514 - INFO - Final token constructed successfully.
+2025-11-04 12:15:39,668 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 12:15:41,598 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 12:22:16,657 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 12:22:18,026 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 12:22:19,040 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 12:25:47,384 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 12:25:47,392 - WARNING - Scheduled 10-minute restart from sockf1.
+2025-11-04 12:25:47,392 - WARNING - Initiating bot restart...
+2025-11-04 12:25:47,420 - ERROR - Error during pre-restart cleanup: (pid=25409)
+2025-11-04 12:25:49,829 - INFO - Main execution block started.
+2025-11-04 12:25:49,831 - INFO - Starting client for ID: 4052641394
+2025-11-04 12:25:53,496 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 12:25:54,089 - INFO - Final token constructed successfully.
+2025-11-04 12:25:54,304 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 12:26:58,117 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 12:27:00,004 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 12:28:47,950 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 12:28:55,972 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 12:36:04,970 - WARNING - Scheduled 10-minute restart from connect loop.
+2025-11-04 12:36:04,973 - WARNING - Initiating bot restart...
+2025-11-04 12:36:04,994 - ERROR - Error during pre-restart cleanup: (pid=25409)
+2025-11-04 12:36:07,133 - INFO - Main execution block started.
+2025-11-04 12:36:07,134 - INFO - Starting client for ID: 4052641394
+2025-11-04 12:36:10,888 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 12:36:10,889 - INFO - Final token constructed successfully.
+2025-11-04 12:36:11,113 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 12:40:36,909 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-04 12:40:36,910 - WARNING - Initiating bot restart...
+2025-11-04 12:40:36,928 - ERROR - Error during pre-restart cleanup: (pid=25409)
+2025-11-04 12:40:38,320 - INFO - Main execution block started.
+2025-11-04 12:40:38,321 - INFO - Starting client for ID: 4052641394
+2025-11-04 12:40:41,941 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 12:40:41,942 - INFO - Final token constructed successfully.
+2025-11-04 12:40:42,166 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 12:41:15,912 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 12:47:55,904 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 12:48:36,619 - CRITICAL - Unhandled error in sockf1 loop: cannot access local variable 'idplayer' where it is not associated with a value. Restarting bot.
+2025-11-04 12:48:36,620 - WARNING - Initiating bot restart...
+2025-11-04 12:48:36,637 - ERROR - Error during pre-restart cleanup: (pid=25409)
+2025-11-04 12:48:38,653 - INFO - Main execution block started.
+2025-11-04 12:48:38,654 - INFO - Starting client for ID: 4052641394
+2025-11-04 12:48:42,398 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 12:48:42,399 - INFO - Final token constructed successfully.
+2025-11-04 12:48:42,628 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 12:49:00,238 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 12:51:51,254 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 12:54:36,172 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-04 12:54:36,172 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-04 12:54:36,180 - WARNING - Initiating bot restart...
+2025-11-04 12:54:36,181 - WARNING - Initiating bot restart...
+2025-11-04 12:54:36,186 - ERROR - Error during pre-restart cleanup: (pid=25409)
+2025-11-04 12:54:37,997 - INFO - Main execution block started.
+2025-11-04 12:54:37,997 - INFO - Starting client for ID: 4052641394
+2025-11-04 12:54:42,267 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 12:54:42,268 - INFO - Final token constructed successfully.
+2025-11-04 12:54:42,479 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 12:58:47,856 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 13:44:03,488 - INFO - Main execution block started.
+2025-11-04 13:44:03,490 - INFO - Starting client for ID: 4052641394
+2025-11-04 13:44:07,608 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 13:44:07,609 - INFO - Final token constructed successfully.
+2025-11-04 13:44:07,756 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 13:44:24,039 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 13:53:27,293 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-04 13:53:27,297 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-04 13:53:27,301 - WARNING - Initiating bot restart...
+2025-11-04 13:53:27,302 - WARNING - Initiating bot restart...
+2025-11-04 13:53:27,326 - ERROR - Error during pre-restart cleanup: (pid=31692)
+2025-11-04 13:53:27,327 - ERROR - Error during pre-restart cleanup: (pid=31692)
+2025-11-04 13:53:30,400 - INFO - Main execution block started.
+2025-11-04 13:53:30,401 - INFO - Starting client for ID: 4052641394
+2025-11-04 13:53:33,977 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 13:53:33,978 - INFO - Final token constructed successfully.
+2025-11-04 13:53:34,209 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 14:02:32,749 - INFO - Main execution block started.
+2025-11-04 14:02:32,753 - INFO - Starting client for ID: 4052641394
+2025-11-04 14:02:38,007 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 14:02:38,009 - INFO - Final token constructed successfully.
+2025-11-04 14:02:38,159 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 14:02:54,841 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 14:05:53,283 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-04 14:05:53,285 - WARNING - Initiating bot restart...
+2025-11-04 14:05:53,294 - ERROR - Error during pre-restart cleanup: (pid=6540)
+2025-11-04 14:05:56,948 - INFO - Main execution block started.
+2025-11-04 14:05:56,950 - INFO - Starting client for ID: 4052641394
+2025-11-04 14:06:00,130 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 14:06:00,131 - INFO - Final token constructed successfully.
+2025-11-04 14:06:00,275 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 14:10:28,925 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-04 14:10:28,941 - WARNING - Initiating bot restart...
+2025-11-04 14:10:29,053 - ERROR - Error during pre-restart cleanup: (pid=6540)
+2025-11-04 14:24:01,556 - INFO - Main execution block started.
+2025-11-04 14:24:01,557 - INFO - Starting client for ID: 4052641394
+2025-11-04 14:24:06,801 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 14:24:06,802 - INFO - Final token constructed successfully.
+2025-11-04 14:24:06,950 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 14:24:53,088 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 14:34:02,106 - WARNING - Scheduled 10-minute restart from sockf1.
+2025-11-04 14:34:02,108 - WARNING - Initiating bot restart...
+2025-11-04 14:34:02,124 - ERROR - Error during pre-restart cleanup: (pid=6540)
+2025-11-04 14:34:04,376 - INFO - Main execution block started.
+2025-11-04 14:34:04,377 - INFO - Starting client for ID: 4052641394
+2025-11-04 14:34:09,033 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 14:34:09,034 - INFO - Final token constructed successfully.
+2025-11-04 14:34:09,218 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 14:34:33,313 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 14:35:24,585 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 14:35:51,361 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 14:36:36,985 - ERROR - error Invalid hex format
+2025-11-04 14:36:36,988 - CRITICAL - Unhandled error in sockf1 loop: the JSON object must be str, bytes or bytearray, not NoneType. Restarting bot.
+2025-11-04 14:36:36,989 - WARNING - Initiating bot restart...
+2025-11-04 14:36:37,010 - ERROR - Error during pre-restart cleanup: (pid=6540)
+2025-11-04 14:36:38,276 - INFO - Main execution block started.
+2025-11-04 14:36:38,277 - INFO - Starting client for ID: 4052641394
+2025-11-04 14:38:55,838 - CRITICAL - A critical error occurred in the main execution block: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-11-04 14:38:55,839 - INFO - Restarting the entire application in 5 seconds...
+2025-11-04 14:39:00,839 - WARNING - Initiating bot restart...
+2025-11-04 14:39:02,160 - INFO - Main execution block started.
+2025-11-04 14:39:02,161 - INFO - Starting client for ID: 4052641394
+2025-11-04 14:39:05,998 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 14:39:05,999 - INFO - Final token constructed successfully.
+2025-11-04 14:39:06,226 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 14:39:46,865 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 14:48:36,989 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 14:49:02,771 - WARNING - Scheduled 10-minute restart from connect loop.
+2025-11-04 14:49:02,771 - WARNING - Initiating bot restart...
+2025-11-04 14:49:02,786 - ERROR - Error during pre-restart cleanup: (pid=6540)
+2025-11-04 14:49:03,931 - INFO - Main execution block started.
+2025-11-04 14:49:03,931 - INFO - Starting client for ID: 4052641394
+2025-11-04 14:49:10,571 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 14:49:10,572 - INFO - Final token constructed successfully.
+2025-11-04 14:49:10,801 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 14:49:45,423 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 14:52:37,973 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-04 14:55:48,392 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-04 14:55:48,393 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-04 14:55:48,394 - WARNING - Initiating bot restart...
+2025-11-04 14:55:48,396 - WARNING - Initiating bot restart...
+2025-11-04 14:55:48,414 - ERROR - Error during pre-restart cleanup: (pid=6540)
+2025-11-04 14:55:49,431 - INFO - Main execution block started.
+2025-11-04 14:55:49,432 - INFO - Starting client for ID: 4052641394
+2025-11-04 14:55:54,252 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 14:55:54,253 - INFO - Final token constructed successfully.
+2025-11-04 14:55:54,487 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 14:58:54,542 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-04 14:58:54,544 - WARNING - Initiating bot restart...
+2025-11-04 14:58:54,569 - ERROR - Error during pre-restart cleanup: (pid=6540)
+2025-11-04 14:58:55,590 - INFO - Main execution block started.
+2025-11-04 14:58:55,590 - INFO - Starting client for ID: 4052641394
+2025-11-04 14:59:00,493 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 14:59:00,494 - INFO - Final token constructed successfully.
+2025-11-04 14:59:00,730 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 15:02:00,807 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-04 15:02:00,808 - WARNING - Initiating bot restart...
+2025-11-04 15:02:00,809 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-04 15:02:00,816 - WARNING - Initiating bot restart...
+2025-11-04 15:02:00,825 - ERROR - Error during pre-restart cleanup: (pid=6540)
+2025-11-04 15:02:01,797 - INFO - Main execution block started.
+2025-11-04 15:02:01,797 - INFO - Starting client for ID: 4052641394
+2025-11-04 15:02:08,012 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 15:02:08,013 - INFO - Final token constructed successfully.
+2025-11-04 15:02:08,243 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 15:05:08,210 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-04 15:05:08,212 - WARNING - Initiating bot restart...
+2025-11-04 15:05:08,223 - ERROR - Error during pre-restart cleanup: (pid=6540)
+2025-11-04 15:05:09,305 - INFO - Main execution block started.
+2025-11-04 15:05:09,305 - INFO - Starting client for ID: 4052641394
+2025-11-04 15:05:15,163 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 15:05:15,164 - INFO - Final token constructed successfully.
+2025-11-04 15:05:15,356 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 15:08:15,451 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-04 15:08:15,452 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-04 15:08:15,454 - WARNING - Initiating bot restart...
+2025-11-04 15:08:15,456 - WARNING - Initiating bot restart...
+2025-11-04 15:08:15,475 - ERROR - Error during pre-restart cleanup: (pid=6540)
+2025-11-04 15:08:16,640 - INFO - Main execution block started.
+2025-11-04 15:08:16,640 - INFO - Starting client for ID: 4052641394
+2025-11-04 15:08:21,724 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 15:08:21,725 - INFO - Final token constructed successfully.
+2025-11-04 15:08:21,952 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 15:11:22,066 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-04 15:11:22,067 - ERROR - Connection closed by remote host in sockf1. Restarting.
+2025-11-04 15:11:22,078 - WARNING - Initiating bot restart...
+2025-11-04 15:11:22,079 - WARNING - Initiating bot restart...
+2025-11-04 15:11:22,087 - ERROR - Error during pre-restart cleanup: (pid=6540)
+2025-11-04 15:11:23,228 - INFO - Main execution block started.
+2025-11-04 15:11:23,228 - INFO - Starting client for ID: 4052641394
+2025-11-04 15:11:26,889 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 15:11:26,890 - INFO - Final token constructed successfully.
+2025-11-04 15:11:27,080 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-04 15:14:27,096 - ERROR - Connection closed by remote host in connect loop. Restarting.
+2025-11-04 15:14:27,096 - WARNING - Initiating bot restart...
+2025-11-04 15:14:27,105 - ERROR - Error during pre-restart cleanup: (pid=6540)
+2025-11-04 15:14:28,344 - INFO - Main execution block started.
+2025-11-04 15:14:28,344 - INFO - Starting client for ID: 4052641394
+2025-11-04 15:15:07,682 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-04 15:15:07,683 - INFO - Final token constructed successfully.
+2025-11-04 15:15:07,914 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-07 12:39:32,221 - INFO - Main execution block started.
+2025-11-07 12:39:32,223 - INFO - Starting client for ID: 4052641394
+2025-11-07 12:39:36,166 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-07 12:39:36,167 - INFO - Final token constructed successfully.
+2025-11-07 12:39:36,312 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-07 12:39:47,754 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-07 12:40:45,998 - INFO - kaynaaaaaaaaaaaaaaaa
+2025-11-12 10:57:02,805 - INFO - Main execution block started.
+2025-11-12 10:57:02,807 - INFO - Starting client for ID: 4052641394
+2025-11-12 10:57:08,692 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-12 10:57:08,693 - INFO - Final token constructed successfully.
+2025-11-12 10:57:09,860 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-12 10:58:21,064 - INFO - Main execution block started.
+2025-11-12 10:58:21,067 - INFO - Starting client for ID: 4052641394
+2025-11-12 10:58:27,583 - INFO - Token decoded and processed. Account ID: 12713097861
+2025-11-12 10:58:27,587 - INFO - Final token constructed successfully.
+2025-11-12 10:58:28,754 - INFO -  Con port 39699 Host 98.98.162.82 
+2025-11-12 10:58:32,712 - INFO - kaynaaaaaaaaaaaaaaaa
+2026-02-28 05:33:19,487 - INFO - Main execution block started.
+2026-02-28 05:33:19,489 - INFO - Starting client for ID: 4052641394
+2026-02-28 05:33:20,594 - CRITICAL - A critical error occurred in the main execution block: 'access_token'
+2026-02-28 05:33:20,594 - INFO - Restarting the entire application in 5 seconds...
+2026-02-28 05:33:25,595 - WARNING - Initiating bot restart...
+2026-02-28 05:33:26,672 - INFO - Main execution block started.
+2026-02-28 05:33:26,673 - INFO - Starting client for ID: 4052641394
+2026-02-28 05:33:27,455 - CRITICAL - A critical error occurred in the main execution block: 'access_token'
+2026-02-28 05:33:27,455 - INFO - Restarting the entire application in 5 seconds...
+2026-02-28 05:33:32,456 - WARNING - Initiating bot restart...
+2026-02-28 05:33:33,543 - INFO - Main execution block started.
+2026-02-28 05:33:33,544 - INFO - Starting client for ID: 4052641394
+2026-02-28 05:33:34,350 - CRITICAL - A critical error occurred in the main execution block: 'access_token'
+2026-02-28 05:33:34,351 - INFO - Restarting the entire application in 5 seconds...
+2026-02-28 05:34:51,095 - INFO - Main execution block started.
+2026-02-28 05:34:51,099 - INFO - Starting client for ID: 4480122517
+2026-02-28 05:34:55,263 - INFO - Token decoded and processed. Account ID: 14646310410
+2026-02-28 05:34:55,264 - INFO - Final token constructed successfully.
+2026-02-28 05:34:55,363 - INFO -  Con port 39698 Host 98.98.162.83 
